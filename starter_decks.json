@@ -1,12 +1,12 @@
 [
   {
     "title": "FS Shared Loot Deck (All)",
-    "id": "1a8bc059-e804-4530-b3bd-ef78f0f62248",
+    "id": "8ce4f612-fbad-4d4e-86d9-583f472e06af",
     "game": "The Binding of Isaac: Four Souls",
     "format": "Classic",
     "cardCount": 128,
-    "createdAt": "2026-04-20T05:35:20Z",
-    "lastModifiedAt": "2026-04-20T05:35:20Z",
+    "createdAt": "2026-04-20T05:51:54Z",
+    "lastModifiedAt": "2026-04-20T05:51:54Z",
     "deckList": {
       "categoriesOrder": [
         "Loot"
@@ -529,12 +529,12 @@
   },
   {
     "title": "FS Shared Treasure Deck (All)",
-    "id": "a6af40f7-fd13-4cfe-b72c-6341c0c800d2",
+    "id": "0fc72102-bd49-4724-9103-24511b29a355",
     "game": "The Binding of Isaac: Four Souls",
     "format": "Classic",
     "cardCount": 278,
-    "createdAt": "2026-04-20T05:35:20Z",
-    "lastModifiedAt": "2026-04-20T05:35:20Z",
+    "createdAt": "2026-04-20T05:51:54Z",
+    "lastModifiedAt": "2026-04-20T05:51:54Z",
     "deckList": {
       "categoriesOrder": [
         "Treasure"
@@ -1657,12 +1657,12 @@
   },
   {
     "title": "FS Shared Monster Deck (All)",
-    "id": "338e6d09-bd65-4009-a488-3a6d480ef5d9",
+    "id": "f0c6d5c2-9b63-4d0d-854e-04383c53dfa8",
     "game": "The Binding of Isaac: Four Souls",
     "format": "Classic",
     "cardCount": 350,
-    "createdAt": "2026-04-20T05:35:20Z",
-    "lastModifiedAt": "2026-04-20T05:35:20Z",
+    "createdAt": "2026-04-20T05:51:54Z",
+    "lastModifiedAt": "2026-04-20T05:51:54Z",
     "deckList": {
       "categoriesOrder": [
         "Monster"
@@ -3073,12 +3073,12 @@
   },
   {
     "title": "FS Shared Room Deck (All)",
-    "id": "1510d60d-b84c-4138-ace1-e2671fcbdd2a",
+    "id": "98ff4e4b-6fb4-4ca7-a794-90611214f2a3",
     "game": "The Binding of Isaac: Four Souls",
     "format": "Classic",
     "cardCount": 68,
-    "createdAt": "2026-04-20T05:35:20Z",
-    "lastModifiedAt": "2026-04-20T05:35:20Z",
+    "createdAt": "2026-04-20T05:51:54Z",
+    "lastModifiedAt": "2026-04-20T05:51:54Z",
     "deckList": {
       "categoriesOrder": [
         "Room"
@@ -3361,12 +3361,12 @@
   },
   {
     "title": "FS Shared Bonus Souls (All)",
-    "id": "fcfd16d3-55f1-42b6-aa7f-e642bd5fea17",
+    "id": "b5d1541f-da71-48c4-9860-dbff1aeb8566",
     "game": "The Binding of Isaac: Four Souls",
     "format": "Classic",
     "cardCount": 9,
-    "createdAt": "2026-04-20T05:35:20Z",
-    "lastModifiedAt": "2026-04-20T05:35:20Z",
+    "createdAt": "2026-04-20T05:51:54Z",
+    "lastModifiedAt": "2026-04-20T05:51:54Z",
     "deckList": {
       "categoriesOrder": [
         "BonusSoul"
@@ -3413,12 +3413,12 @@
   },
   {
     "title": "FS Character Pool (All)",
-    "id": "9048beae-8bbd-43e5-901b-345a6783cd26",
+    "id": "5b95d84b-00dd-4b34-a270-009b19008ce1",
     "game": "The Binding of Isaac: Four Souls",
     "format": "Classic",
     "cardCount": 96,
-    "createdAt": "2026-04-20T05:35:20Z",
-    "lastModifiedAt": "2026-04-20T05:35:20Z",
+    "createdAt": "2026-04-20T05:51:54Z",
+    "lastModifiedAt": "2026-04-20T05:51:54Z",
     "deckList": {
       "categoriesOrder": [
         "Character"
@@ -3813,12 +3813,12 @@
   },
   {
     "title": "FS Starting Items Pool (All)",
-    "id": "502df1d0-087b-4528-9284-579555904f14",
+    "id": "06015df9-9a5f-4c58-a197-8140588ba034",
     "game": "The Binding of Isaac: Four Souls",
     "format": "Classic",
     "cardCount": 67,
-    "createdAt": "2026-04-20T05:35:20Z",
-    "lastModifiedAt": "2026-04-20T05:35:20Z",
+    "createdAt": "2026-04-20T05:51:54Z",
+    "lastModifiedAt": "2026-04-20T05:51:54Z",
     "deckList": {
       "categoriesOrder": [
         "Eternal"
@@ -4096,13 +4096,3373 @@
     }
   },
   {
+    "title": "FS Auto Setup Host",
+    "id": "9733c531-1997-4bfb-b44c-59c89d0dfcab",
+    "game": "The Binding of Isaac: Four Souls",
+    "format": "Classic",
+    "cardCount": 833,
+    "createdAt": "2026-04-20T05:51:54Z",
+    "lastModifiedAt": "2026-04-20T05:51:54Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Loot",
+        "Treasure",
+        "Monster",
+        "Room",
+        "BonusSoul"
+      ],
+      "Loot": [
+        {
+          "count": 1,
+          "id": "AA-LOST-SOUL"
+        },
+        {
+          "count": 1,
+          "id": "AA-XIII-DEATH"
+        },
+        {
+          "count": 1,
+          "id": "AA-XVII-THE-STARS"
+        },
+        {
+          "count": 1,
+          "id": "ANNI-CRACKED-KEY"
+        },
+        {
+          "count": 1,
+          "id": "ANNI-MONSTER-CARD"
+        },
+        {
+          "count": 1,
+          "id": "B2-A-DIME"
+        },
+        {
+          "count": 1,
+          "id": "B2-A-NICKEL"
+        },
+        {
+          "count": 1,
+          "id": "B2-A-PENNY-6"
+        },
+        {
+          "count": 1,
+          "id": "B2-BLANK-RUNE"
+        },
+        {
+          "count": 1,
+          "id": "B2-BLOODY-PENNY"
+        },
+        {
+          "count": 1,
+          "id": "B2-BOMB"
+        },
+        {
+          "count": 1,
+          "id": "B2-BROKEN-ANKH"
+        },
+        {
+          "count": 1,
+          "id": "B2-BUTTER-BEAN"
+        },
+        {
+          "count": 1,
+          "id": "B2-CAINS-EYE"
+        },
+        {
+          "count": 1,
+          "id": "B2-COUNTERFEIT-PENNY"
+        },
+        {
+          "count": 1,
+          "id": "B2-CURVED-HORN"
+        },
+        {
+          "count": 1,
+          "id": "B2-DAGAZ"
+        },
+        {
+          "count": 1,
+          "id": "B2-DICE-SHARD-3"
+        },
+        {
+          "count": 1,
+          "id": "B2-EHWAZ"
+        },
+        {
+          "count": 1,
+          "id": "B2-FOUR-CENTS"
+        },
+        {
+          "count": 1,
+          "id": "B2-GOLD-BOMB"
+        },
+        {
+          "count": 1,
+          "id": "B2-GOLDEN-HORSESHOE"
+        },
+        {
+          "count": 1,
+          "id": "B2-GUPPYS-HAIRBALL"
+        },
+        {
+          "count": 1,
+          "id": "B2-I-THE-MAGICIAN"
+        },
+        {
+          "count": 1,
+          "id": "B2-II-THE-HIGH-PRIESTESS"
+        },
+        {
+          "count": 1,
+          "id": "B2-III-THE-EMPRESS"
+        },
+        {
+          "count": 1,
+          "id": "B2-IV-THE-EMPEROR"
+        },
+        {
+          "count": 1,
+          "id": "B2-IX-THE-HERMIT"
+        },
+        {
+          "count": 1,
+          "id": "B2-LIL-BATTERY"
+        },
+        {
+          "count": 1,
+          "id": "B2-LOST-SOUL"
+        },
+        {
+          "count": 1,
+          "id": "B2-MEGA-BATTERY"
+        },
+        {
+          "count": 1,
+          "id": "B2-O-THE-FOOL"
+        },
+        {
+          "count": 1,
+          "id": "B2-PILLS"
+        },
+        {
+          "count": 1,
+          "id": "B2-PILLS-2"
+        },
+        {
+          "count": 1,
+          "id": "B2-PILLS-3"
+        },
+        {
+          "count": 1,
+          "id": "B2-PURPLE-HEART"
+        },
+        {
+          "count": 1,
+          "id": "B2-SOUL-HEART-2"
+        },
+        {
+          "count": 1,
+          "id": "B2-SWALLOWED-PENNY"
+        },
+        {
+          "count": 1,
+          "id": "B2-THREE-CENTS"
+        },
+        {
+          "count": 1,
+          "id": "B2-TWO-CENTS"
+        },
+        {
+          "count": 1,
+          "id": "B2-V-THE-HIEROPHANT"
+        },
+        {
+          "count": 1,
+          "id": "B2-VI-THE-LOVERS"
+        },
+        {
+          "count": 1,
+          "id": "B2-VII-THE-CHARIOT"
+        },
+        {
+          "count": 1,
+          "id": "B2-VIII-JUSTICE"
+        },
+        {
+          "count": 1,
+          "id": "B2-X-WHEEL-OF-FORTUNE"
+        },
+        {
+          "count": 1,
+          "id": "B2-XI-STRENGTH"
+        },
+        {
+          "count": 1,
+          "id": "B2-XII-THE-HANGED-MAN"
+        },
+        {
+          "count": 1,
+          "id": "B2-XIII-DEATH"
+        },
+        {
+          "count": 1,
+          "id": "B2-XIV-TEMPERANCE"
+        },
+        {
+          "count": 1,
+          "id": "B2-XIX-THE-SUN"
+        },
+        {
+          "count": 1,
+          "id": "B2-XV-THE-DEVIL"
+        },
+        {
+          "count": 1,
+          "id": "B2-XVI-THE-TOWER"
+        },
+        {
+          "count": 1,
+          "id": "B2-XVII-THE-STARS"
+        },
+        {
+          "count": 1,
+          "id": "B2-XVIII-THE-MOON"
+        },
+        {
+          "count": 1,
+          "id": "B2-XX-JUDGEMENT"
+        },
+        {
+          "count": 1,
+          "id": "B2-XXI-THE-WORLD"
+        },
+        {
+          "count": 1,
+          "id": "BOX-BUTT-PENNY"
+        },
+        {
+          "count": 1,
+          "id": "BOX-PILLS"
+        },
+        {
+          "count": 1,
+          "id": "BOX-PILLS-2"
+        },
+        {
+          "count": 1,
+          "id": "BOX-PILLS-3"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-AAA-BATTERY"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-ANSUZ"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-BLACK-RUNE"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-GET-OUT-OF-JAIL-CARD"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-GOLD-KEY"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-PERTHRO"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-PILLS"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-PILLS-2"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-PILLS-3"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-POKER-CHIP"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-QUESTIONMARK-CARD"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-TAPE-WORM"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-THE-LEFT-HAND"
+        },
+        {
+          "count": 1,
+          "id": "G2-A-SACK"
+        },
+        {
+          "count": 1,
+          "id": "G2-CANCER"
+        },
+        {
+          "count": 1,
+          "id": "G2-CHARGED-PENNY"
+        },
+        {
+          "count": 1,
+          "id": "G2-CREDIT-CARD"
+        },
+        {
+          "count": 1,
+          "id": "G2-HOLY-CARD"
+        },
+        {
+          "count": 1,
+          "id": "G2-JERA"
+        },
+        {
+          "count": 1,
+          "id": "G2-JOKER"
+        },
+        {
+          "count": 1,
+          "id": "G2-PILLS"
+        },
+        {
+          "count": 1,
+          "id": "G2-PINK-EYE"
+        },
+        {
+          "count": 1,
+          "id": "G2-SOUL-HEART"
+        },
+        {
+          "count": 1,
+          "id": "G2-TWO-OF-DIAMONDS"
+        },
+        {
+          "count": 1,
+          "id": "P-LOST-SOUL"
+        },
+        {
+          "count": 1,
+          "id": "P-SHORT-FUSE"
+        },
+        {
+          "count": 1,
+          "id": "R-A-LUCKY-PENNY"
+        },
+        {
+          "count": 1,
+          "id": "R-ACE-OF-DIAMONDS"
+        },
+        {
+          "count": 1,
+          "id": "R-ALGIZ"
+        },
+        {
+          "count": 1,
+          "id": "R-BAG-LUNCH"
+        },
+        {
+          "count": 1,
+          "id": "R-BERKANO"
+        },
+        {
+          "count": 1,
+          "id": "R-BLACK-HEART"
+        },
+        {
+          "count": 1,
+          "id": "R-BROKEN-REMOTE"
+        },
+        {
+          "count": 1,
+          "id": "R-CALLUS"
+        },
+        {
+          "count": 1,
+          "id": "R-DADS-NOTE"
+        },
+        {
+          "count": 1,
+          "id": "R-EMERGENCY-CONTACT"
+        },
+        {
+          "count": 1,
+          "id": "R-GOLDEN-TRINKET"
+        },
+        {
+          "count": 1,
+          "id": "R-HAGALAZ"
+        },
+        {
+          "count": 1,
+          "id": "R-KEY"
+        },
+        {
+          "count": 1,
+          "id": "R-LUCKY-TOE"
+        },
+        {
+          "count": 1,
+          "id": "R-MAGIC-MARKER"
+        },
+        {
+          "count": 1,
+          "id": "R-MEGA-BOMB"
+        },
+        {
+          "count": 1,
+          "id": "R-PILLS"
+        },
+        {
+          "count": 1,
+          "id": "R-PILLS-2"
+        },
+        {
+          "count": 1,
+          "id": "R-RIB-OF-GREED"
+        },
+        {
+          "count": 1,
+          "id": "R-SOUL-HEART"
+        },
+        {
+          "count": 1,
+          "id": "R-STICKY-NICKEL"
+        },
+        {
+          "count": 1,
+          "id": "R-TICK"
+        },
+        {
+          "count": 1,
+          "id": "R-TWO-OF-SPADES"
+        },
+        {
+          "count": 1,
+          "id": "R-WISHBONE"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-BIBLE-THUMP"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-BLANKS"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-CHEEP-CHEEP-CHEEP"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-CHUNK-OF-AMBER"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-COW-ON-A-TRASH-FARM"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-DEMON-FORM"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-FIEND-FIRE"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-GREED-BUTT"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-JESTER"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-LOOT-CARD"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-MURDER"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-WITCH"
+        },
+        {
+          "count": 1,
+          "id": "SOI-ERA-WALK"
+        },
+        {
+          "count": 1,
+          "id": "SOI-FOUND-SOUL"
+        },
+        {
+          "count": 1,
+          "id": "SOI-MEGA-BEAN"
+        },
+        {
+          "count": 1,
+          "id": "SOI-MUGGER-BEAN"
+        },
+        {
+          "count": 1,
+          "id": "SOI-RECYCLING-STICKER"
+        },
+        {
+          "count": 1,
+          "id": "TW-RAINBOW-TAPEWORM"
+        }
+      ],
+      "Treasure": [
+        {
+          "count": 1,
+          "id": "AA-BRIMSTONE"
+        },
+        {
+          "count": 1,
+          "id": "AA-EPIC-FETUS"
+        },
+        {
+          "count": 1,
+          "id": "AA-GODHEAD"
+        },
+        {
+          "count": 1,
+          "id": "AA-GUPPYS-PAW"
+        },
+        {
+          "count": 1,
+          "id": "ANNI-BOOSTER-PACK"
+        },
+        {
+          "count": 1,
+          "id": "ANNI-COOP-BABY"
+        },
+        {
+          "count": 1,
+          "id": "ANNI-DATAMINER"
+        },
+        {
+          "count": 1,
+          "id": "ANNI-PROTOTYPE"
+        },
+        {
+          "count": 1,
+          "id": "B2-BABY-HAUNT"
+        },
+        {
+          "count": 1,
+          "id": "B2-BATTERY-BUM"
+        },
+        {
+          "count": 1,
+          "id": "B2-BELLY-BUTTON"
+        },
+        {
+          "count": 1,
+          "id": "B2-BLANK-CARD"
+        },
+        {
+          "count": 1,
+          "id": "B2-BOBS-BRAIN"
+        },
+        {
+          "count": 1,
+          "id": "B2-BOOK-OF-SIN"
+        },
+        {
+          "count": 1,
+          "id": "B2-BOOMERANG"
+        },
+        {
+          "count": 1,
+          "id": "B2-BOX"
+        },
+        {
+          "count": 1,
+          "id": "B2-BREAKFAST"
+        },
+        {
+          "count": 1,
+          "id": "B2-BRIMSTONE"
+        },
+        {
+          "count": 1,
+          "id": "B2-BUM-BO"
+        },
+        {
+          "count": 1,
+          "id": "B2-BUM-FRIEND"
+        },
+        {
+          "count": 1,
+          "id": "B2-CAMBION-CONCEPTION"
+        },
+        {
+          "count": 1,
+          "id": "B2-CHAMPION-BELT"
+        },
+        {
+          "count": 1,
+          "id": "B2-CHAOS"
+        },
+        {
+          "count": 1,
+          "id": "B2-CHAOS-CARD"
+        },
+        {
+          "count": 1,
+          "id": "B2-CHARGED-BABY"
+        },
+        {
+          "count": 1,
+          "id": "B2-CHEESE-GRATER"
+        },
+        {
+          "count": 1,
+          "id": "B2-COMPOST"
+        },
+        {
+          "count": 1,
+          "id": "B2-CONTRACT-FROM-BELOW"
+        },
+        {
+          "count": 1,
+          "id": "B2-CRYSTAL-BALL"
+        },
+        {
+          "count": 1,
+          "id": "B2-CURSE-OF-THE-TOWER"
+        },
+        {
+          "count": 1,
+          "id": "B2-DADDY-HAUNT"
+        },
+        {
+          "count": 1,
+          "id": "B2-DADS-LOST-COIN"
+        },
+        {
+          "count": 1,
+          "id": "B2-DARK-BUM"
+        },
+        {
+          "count": 1,
+          "id": "B2-DEAD-BIRD"
+        },
+        {
+          "count": 1,
+          "id": "B2-DECOY"
+        },
+        {
+          "count": 1,
+          "id": "B2-DINNER"
+        },
+        {
+          "count": 1,
+          "id": "B2-DIPLOPIA"
+        },
+        {
+          "count": 1,
+          "id": "B2-DONATION-MACHINE"
+        },
+        {
+          "count": 1,
+          "id": "B2-DRY-BABY"
+        },
+        {
+          "count": 1,
+          "id": "B2-EDENS-BLESSING"
+        },
+        {
+          "count": 1,
+          "id": "B2-EMPTY-VESSEL"
+        },
+        {
+          "count": 1,
+          "id": "B2-EYE-OF-GREED"
+        },
+        {
+          "count": 1,
+          "id": "B2-FANNY-PACK"
+        },
+        {
+          "count": 1,
+          "id": "B2-FINGER"
+        },
+        {
+          "count": 1,
+          "id": "B2-FLUSH"
+        },
+        {
+          "count": 1,
+          "id": "B2-GLASS-CANNON"
+        },
+        {
+          "count": 1,
+          "id": "B2-GOAT-HEAD"
+        },
+        {
+          "count": 1,
+          "id": "B2-GODHEAD"
+        },
+        {
+          "count": 1,
+          "id": "B2-GOLDEN-RAZOR-BLADE"
+        },
+        {
+          "count": 1,
+          "id": "B2-GREEDS-GULLET"
+        },
+        {
+          "count": 1,
+          "id": "B2-GUPPYS-COLLAR"
+        },
+        {
+          "count": 1,
+          "id": "B2-GUPPYS-HEAD"
+        },
+        {
+          "count": 1,
+          "id": "B2-GUPPYS-PAW"
+        },
+        {
+          "count": 1,
+          "id": "B2-HOST-HAT"
+        },
+        {
+          "count": 1,
+          "id": "B2-IPECAC"
+        },
+        {
+          "count": 1,
+          "id": "B2-JAWBONE"
+        },
+        {
+          "count": 1,
+          "id": "B2-LUCKY-FOOT"
+        },
+        {
+          "count": 1,
+          "id": "B2-MEAT"
+        },
+        {
+          "count": 1,
+          "id": "B2-MINI-MUSH"
+        },
+        {
+          "count": 1,
+          "id": "B2-MODELING-CLAY"
+        },
+        {
+          "count": 1,
+          "id": "B2-MOMS-BOX"
+        },
+        {
+          "count": 1,
+          "id": "B2-MOMS-BRA"
+        },
+        {
+          "count": 1,
+          "id": "B2-MOMS-COIN-PURSE"
+        },
+        {
+          "count": 1,
+          "id": "B2-MOMS-PURSE"
+        },
+        {
+          "count": 1,
+          "id": "B2-MOMS-RAZOR"
+        },
+        {
+          "count": 1,
+          "id": "B2-MOMS-SHOVEL"
+        },
+        {
+          "count": 1,
+          "id": "B2-MONSTER-MANUAL"
+        },
+        {
+          "count": 1,
+          "id": "B2-MONSTROS-TOOTH"
+        },
+        {
+          "count": 1,
+          "id": "B2-MR-BOOM"
+        },
+        {
+          "count": 1,
+          "id": "B2-MYSTERY-SACK"
+        },
+        {
+          "count": 1,
+          "id": "B2-NO"
+        },
+        {
+          "count": 1,
+          "id": "B2-PANDORAS-BOX"
+        },
+        {
+          "count": 1,
+          "id": "B2-PAY-TO-PLAY"
+        },
+        {
+          "count": 1,
+          "id": "B2-PLACEBO"
+        },
+        {
+          "count": 1,
+          "id": "B2-POLYDACTYLY"
+        },
+        {
+          "count": 1,
+          "id": "B2-PORTABLE-SLOT-MACHINE"
+        },
+        {
+          "count": 1,
+          "id": "B2-POTATO-PEELER"
+        },
+        {
+          "count": 1,
+          "id": "B2-RAZOR-BLADE"
+        },
+        {
+          "count": 1,
+          "id": "B2-REMOTE-DETONATOR"
+        },
+        {
+          "count": 1,
+          "id": "B2-RESTOCK"
+        },
+        {
+          "count": 1,
+          "id": "B2-SACK-HEAD"
+        },
+        {
+          "count": 1,
+          "id": "B2-SACK-OF-PENNIES"
+        },
+        {
+          "count": 1,
+          "id": "B2-SACRED-HEART"
+        },
+        {
+          "count": 1,
+          "id": "B2-SHADOW"
+        },
+        {
+          "count": 1,
+          "id": "B2-SHINY-ROCK"
+        },
+        {
+          "count": 1,
+          "id": "B2-SMELTER"
+        },
+        {
+          "count": 1,
+          "id": "B2-SPIDER-MOD"
+        },
+        {
+          "count": 1,
+          "id": "B2-SPOON-BENDER"
+        },
+        {
+          "count": 1,
+          "id": "B2-STARTER-DECK"
+        },
+        {
+          "count": 1,
+          "id": "B2-STEAMY-SALE"
+        },
+        {
+          "count": 1,
+          "id": "B2-SUICIDE-KING"
+        },
+        {
+          "count": 1,
+          "id": "B2-SYNTHOIL"
+        },
+        {
+          "count": 1,
+          "id": "B2-TAROT-CLOTH"
+        },
+        {
+          "count": 1,
+          "id": "B2-TECH-X"
+        },
+        {
+          "count": 1,
+          "id": "B2-THE-BATTERY"
+        },
+        {
+          "count": 1,
+          "id": "B2-THE-BLUE-MAP"
+        },
+        {
+          "count": 1,
+          "id": "B2-THE-CHEST"
+        },
+        {
+          "count": 1,
+          "id": "B2-THE-COMPASS"
+        },
+        {
+          "count": 1,
+          "id": "B2-THE-D10"
+        },
+        {
+          "count": 1,
+          "id": "B2-THE-D100"
+        },
+        {
+          "count": 1,
+          "id": "B2-THE-D20"
+        },
+        {
+          "count": 1,
+          "id": "B2-THE-D4"
+        },
+        {
+          "count": 1,
+          "id": "B2-THE-DEAD-CAT"
+        },
+        {
+          "count": 1,
+          "id": "B2-THE-HABIT"
+        },
+        {
+          "count": 1,
+          "id": "B2-THE-MAP"
+        },
+        {
+          "count": 1,
+          "id": "B2-THE-MIDAS-TOUCH"
+        },
+        {
+          "count": 1,
+          "id": "B2-THE-POLAROID"
+        },
+        {
+          "count": 1,
+          "id": "B2-THE-POOP"
+        },
+        {
+          "count": 1,
+          "id": "B2-THE-RELIC"
+        },
+        {
+          "count": 1,
+          "id": "B2-THE-SHOVEL"
+        },
+        {
+          "count": 1,
+          "id": "B2-THERES-OPTIONS"
+        },
+        {
+          "count": 1,
+          "id": "B2-TRINITY-SHIELD"
+        },
+        {
+          "count": 1,
+          "id": "B2-TWO-OF-CLUBS"
+        },
+        {
+          "count": 1,
+          "id": "BOX-A-DOLLAR"
+        },
+        {
+          "count": 1,
+          "id": "BOX-A-QUARTER"
+        },
+        {
+          "count": 1,
+          "id": "BOX-CUBE-OF-MEAT"
+        },
+        {
+          "count": 1,
+          "id": "BOX-CUBE-OF-MEAT-2"
+        },
+        {
+          "count": 1,
+          "id": "BOX-CUBE-OF-MEAT-3"
+        },
+        {
+          "count": 1,
+          "id": "BOX-EDENS-SOUL"
+        },
+        {
+          "count": 1,
+          "id": "BOX-GLITTER-BOMBS"
+        },
+        {
+          "count": 1,
+          "id": "BOX-LIL-DELIRIUM"
+        },
+        {
+          "count": 1,
+          "id": "BOX-MOMS-HEELS"
+        },
+        {
+          "count": 1,
+          "id": "BOX-MOMS-LIPSTICK"
+        },
+        {
+          "count": 1,
+          "id": "BOX-MOMS-UNDERWEAR"
+        },
+        {
+          "count": 1,
+          "id": "BOX-MY-LITTLE-UNICORN"
+        },
+        {
+          "count": 1,
+          "id": "BOX-NUMBER-ONE"
+        },
+        {
+          "count": 1,
+          "id": "BOX-NUMBER-TWO"
+        },
+        {
+          "count": 1,
+          "id": "BOX-SATANIC-BIBLE"
+        },
+        {
+          "count": 1,
+          "id": "BOX-SERAPHIM"
+        },
+        {
+          "count": 1,
+          "id": "BOX-THE-MARK"
+        },
+        {
+          "count": 1,
+          "id": "BOX-THE-NAIL"
+        },
+        {
+          "count": 1,
+          "id": "BOX-THE-STAIRWAY"
+        },
+        {
+          "count": 1,
+          "id": "BOX-THREE-DOLLAR-BILL"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-1-UP"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-20-20"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-ABADDON"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-ATHAME"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-BLACK-CANDLE"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-CURSED-EYE"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-DADDY-LONG-LEGS"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-DISTANT-ADMIRATION"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-DIVORCE-PAPERS"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-EUTHANASIA"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-FORGET-ME-NOW"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-GAME-BREAKING-BUG"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-GUPPYS-EYE"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-HEAD-OF-KRAMPUS"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-HEAD-OF-THE-KEEPER"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-HOURGLASS"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-LARD"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-LIBRA"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-MAGNET"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-MAMA-HAUNT"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-MOMS-EYE-SHADOW"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-MUTANT-SPIDER"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-PHD"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-POLYPHEMUS"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-RAINBOW-BABY"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-RED-CANDLE"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-RUBBER-CEMENT"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-SMART-FLY"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-TELEPATHY-FOR-DUMMIES"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-THE-WIZ"
+        },
+        {
+          "count": 1,
+          "id": "G2-9-VOLT"
+        },
+        {
+          "count": 1,
+          "id": "G2-CROOKED-PENNY"
+        },
+        {
+          "count": 1,
+          "id": "G2-DADS-KEY"
+        },
+        {
+          "count": 1,
+          "id": "G2-FRUITCAKE"
+        },
+        {
+          "count": 1,
+          "id": "G2-GUPPYS-TAIL"
+        },
+        {
+          "count": 1,
+          "id": "G2-I-CANT-BELIEVE-ITS-NOT-BUTTER-BEAN"
+        },
+        {
+          "count": 1,
+          "id": "G2-INFAMY"
+        },
+        {
+          "count": 1,
+          "id": "G2-LEMON-MISHAP"
+        },
+        {
+          "count": 1,
+          "id": "G2-LIBRARY-CARD"
+        },
+        {
+          "count": 1,
+          "id": "G2-MOMS-KNIFE"
+        },
+        {
+          "count": 1,
+          "id": "G2-MORE-OPTIONS"
+        },
+        {
+          "count": 1,
+          "id": "G2-OUIJA-BOARD"
+        },
+        {
+          "count": 1,
+          "id": "G2-PLACENTA"
+        },
+        {
+          "count": 1,
+          "id": "G2-PLAN-C"
+        },
+        {
+          "count": 1,
+          "id": "G2-SKELETON-KEY"
+        },
+        {
+          "count": 1,
+          "id": "G2-SOY-MILK"
+        },
+        {
+          "count": 1,
+          "id": "G2-SUCCUBUS"
+        },
+        {
+          "count": 1,
+          "id": "G2-THE-BIBLE"
+        },
+        {
+          "count": 1,
+          "id": "G2-THE-BUTTER-BEAN"
+        },
+        {
+          "count": 1,
+          "id": "G2-THE-MISSING-PAGE"
+        },
+        {
+          "count": 1,
+          "id": "GF-BRIMSTONE"
+        },
+        {
+          "count": 1,
+          "id": "GF-G-FUEL"
+        },
+        {
+          "count": 1,
+          "id": "GF-G-FUEL-RED"
+        },
+        {
+          "count": 1,
+          "id": "GF-ISAACS-TEARS"
+        },
+        {
+          "count": 1,
+          "id": "GI-LIL-GISH"
+        },
+        {
+          "count": 1,
+          "id": "MEW-MINI-NUKE"
+        },
+        {
+          "count": 1,
+          "id": "P-DADS-RING"
+        },
+        {
+          "count": 1,
+          "id": "P-LUMP-OF-COAL"
+        },
+        {
+          "count": 1,
+          "id": "P-MOMS-RING"
+        },
+        {
+          "count": 1,
+          "id": "P-MYSTERY-GIFT"
+        },
+        {
+          "count": 1,
+          "id": "P-PUMPKIN-MASK"
+        },
+        {
+          "count": 1,
+          "id": "P-PYROMANIAC"
+        },
+        {
+          "count": 1,
+          "id": "R-ABEL"
+        },
+        {
+          "count": 1,
+          "id": "R-ALABASTER-BOX"
+        },
+        {
+          "count": 1,
+          "id": "R-AUCTION-GAVEL"
+        },
+        {
+          "count": 1,
+          "id": "R-BACKSTABBER"
+        },
+        {
+          "count": 1,
+          "id": "R-BALL-OF-BANDAGES"
+        },
+        {
+          "count": 1,
+          "id": "R-BATTERY-PACK"
+        },
+        {
+          "count": 1,
+          "id": "R-BIRTHRIGHT"
+        },
+        {
+          "count": 1,
+          "id": "R-BLOOD-PUPPY"
+        },
+        {
+          "count": 1,
+          "id": "R-BOBBY-BOMB"
+        },
+        {
+          "count": 1,
+          "id": "R-BOOK-OF-THE-DEAD"
+        },
+        {
+          "count": 1,
+          "id": "R-CAR-BATTERY"
+        },
+        {
+          "count": 1,
+          "id": "R-CHOCOLATE-MILK"
+        },
+        {
+          "count": 1,
+          "id": "R-CONSOLATION-PRIZE"
+        },
+        {
+          "count": 1,
+          "id": "R-CURSED-SOUL"
+        },
+        {
+          "count": 1,
+          "id": "R-DAMOCLES"
+        },
+        {
+          "count": 1,
+          "id": "R-ETERNAL-D6"
+        },
+        {
+          "count": 1,
+          "id": "R-EXPERIMENTAL-TREATMENT"
+        },
+        {
+          "count": 1,
+          "id": "R-FETAL-HAUNT"
+        },
+        {
+          "count": 1,
+          "id": "R-FIRE-MIND"
+        },
+        {
+          "count": 1,
+          "id": "R-FRIENDLY-BALL"
+        },
+        {
+          "count": 1,
+          "id": "R-FRIENDLY-SACK"
+        },
+        {
+          "count": 1,
+          "id": "R-GNAWED-LEAF"
+        },
+        {
+          "count": 1,
+          "id": "R-HALLOWED-GROUND"
+        },
+        {
+          "count": 1,
+          "id": "R-HALO-OF-FLIES"
+        },
+        {
+          "count": 1,
+          "id": "R-HAND-ME-DOWNS"
+        },
+        {
+          "count": 1,
+          "id": "R-HANDICAPPED-PLACARD"
+        },
+        {
+          "count": 1,
+          "id": "R-JAR-OF-FLIES"
+        },
+        {
+          "count": 1,
+          "id": "R-JUDAS-SHADOW"
+        },
+        {
+          "count": 1,
+          "id": "R-KEEPERS-BOX"
+        },
+        {
+          "count": 1,
+          "id": "R-KEEPERS-PENNY"
+        },
+        {
+          "count": 1,
+          "id": "R-KEEPERS-SACK"
+        },
+        {
+          "count": 1,
+          "id": "R-LIL-CHEST"
+        },
+        {
+          "count": 1,
+          "id": "R-LODESTONE"
+        },
+        {
+          "count": 1,
+          "id": "R-LUNCH"
+        },
+        {
+          "count": 1,
+          "id": "R-MAGIC-SKIN"
+        },
+        {
+          "count": 1,
+          "id": "R-MAMA-MEGA"
+        },
+        {
+          "count": 1,
+          "id": "R-MARBLES"
+        },
+        {
+          "count": 1,
+          "id": "R-MEMBER-CARD"
+        },
+        {
+          "count": 1,
+          "id": "R-MOMS-BOTTLE-OF-PILLS"
+        },
+        {
+          "count": 1,
+          "id": "R-PAGEANT-BOY"
+        },
+        {
+          "count": 1,
+          "id": "R-PLAYDOUGH-COOKIE"
+        },
+        {
+          "count": 1,
+          "id": "R-PUNCHING-BAG"
+        },
+        {
+          "count": 1,
+          "id": "R-R-KEY"
+        },
+        {
+          "count": 1,
+          "id": "R-RED-KEY"
+        },
+        {
+          "count": 1,
+          "id": "R-ROCK-BOTTOM"
+        },
+        {
+          "count": 1,
+          "id": "R-SACRIFICIAL-DAGGER"
+        },
+        {
+          "count": 1,
+          "id": "R-SPELUNKER-HAT"
+        },
+        {
+          "count": 1,
+          "id": "R-THE-CLICKER"
+        },
+        {
+          "count": 1,
+          "id": "R-THE-JAR"
+        },
+        {
+          "count": 1,
+          "id": "R-TRICK-PENNY"
+        },
+        {
+          "count": 1,
+          "id": "R-ULTRA-FLESH-KID"
+        },
+        {
+          "count": 1,
+          "id": "R-UNDEFINED"
+        },
+        {
+          "count": 1,
+          "id": "R-X-RAY-VISION"
+        },
+        {
+          "count": 1,
+          "id": "RET-1-UP"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-AUBREY"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-BIRTHDAY-CAKE"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-BOXING-GLOVE"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-DIOGENES-POT"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-DOORWAY"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-GEORGE"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-GUN-THAT-CAN-KILL-THE-PAST"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-HITOPS"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-NEWGROUNDS-TANK"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-SER-JUNKAN"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-SPEWER"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-THE-CROWDFUNDER"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-TONY"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-WATER-BOTTLE"
+        },
+        {
+          "count": 1,
+          "id": "SOI-A-FRIEND"
+        },
+        {
+          "count": 1,
+          "id": "SOI-BLAST-MINER-TNT"
+        },
+        {
+          "count": 1,
+          "id": "SOI-CONJOINED-D6"
+        },
+        {
+          "count": 1,
+          "id": "SOI-ISAACS-LAST-WILL"
+        },
+        {
+          "count": 1,
+          "id": "SOI-KARMA"
+        },
+        {
+          "count": 1,
+          "id": "SOI-MAGIC-MUSHROOM"
+        },
+        {
+          "count": 1,
+          "id": "SOI-TELEKINESIS"
+        },
+        {
+          "count": 1,
+          "id": "SOI-THE-MONSTER"
+        },
+        {
+          "count": 1,
+          "id": "SOI-TUMOR-BALL"
+        },
+        {
+          "count": 1,
+          "id": "T-DEAD-EYE"
+        },
+        {
+          "count": 1,
+          "id": "T-EPIC-FETUS"
+        },
+        {
+          "count": 1,
+          "id": "T-MARKED"
+        },
+        {
+          "count": 1,
+          "id": "TW-BLACK-PROGLOTTID"
+        },
+        {
+          "count": 1,
+          "id": "TW-RED-PROGLOTTID"
+        },
+        {
+          "count": 1,
+          "id": "TW-WHITE-PROGLOTTID"
+        }
+      ],
+      "Monster": [
+        {
+          "count": 1,
+          "id": "AA-AMBUSH"
+        },
+        {
+          "count": 1,
+          "id": "AA-BEGOTTEN"
+        },
+        {
+          "count": 1,
+          "id": "AA-BIG-BONY"
+        },
+        {
+          "count": 1,
+          "id": "AA-BROWNIE"
+        },
+        {
+          "count": 1,
+          "id": "AA-CLOTTY"
+        },
+        {
+          "count": 1,
+          "id": "AA-DADDY-LONG-LEGS"
+        },
+        {
+          "count": 1,
+          "id": "AA-DARK-ONE"
+        },
+        {
+          "count": 1,
+          "id": "AA-DELIRIUM"
+        },
+        {
+          "count": 1,
+          "id": "AA-DEVIL-DEAL"
+        },
+        {
+          "count": 1,
+          "id": "AA-DINGLE"
+        },
+        {
+          "count": 1,
+          "id": "AA-FAMINE"
+        },
+        {
+          "count": 1,
+          "id": "AA-FISTULA"
+        },
+        {
+          "count": 1,
+          "id": "AA-GAPER"
+        },
+        {
+          "count": 1,
+          "id": "AA-GURDY"
+        },
+        {
+          "count": 1,
+          "id": "AA-HORNFEL"
+        },
+        {
+          "count": 1,
+          "id": "AA-IT-LIVES"
+        },
+        {
+          "count": 1,
+          "id": "AA-LARRY-JR"
+        },
+        {
+          "count": 1,
+          "id": "AA-LITTLE-HORN"
+        },
+        {
+          "count": 1,
+          "id": "AA-MEGA-FATTY"
+        },
+        {
+          "count": 1,
+          "id": "AA-MEGA-SATAN"
+        },
+        {
+          "count": 1,
+          "id": "AA-MEGA-SATAN-2"
+        },
+        {
+          "count": 1,
+          "id": "AA-MIN-MIN"
+        },
+        {
+          "count": 1,
+          "id": "AA-MOM"
+        },
+        {
+          "count": 1,
+          "id": "AA-MOMS-HAND"
+        },
+        {
+          "count": 1,
+          "id": "AA-MONSTRO"
+        },
+        {
+          "count": 1,
+          "id": "AA-MONSTRO-II"
+        },
+        {
+          "count": 1,
+          "id": "AA-MULLIBOOM"
+        },
+        {
+          "count": 1,
+          "id": "AA-MULLIGAN"
+        },
+        {
+          "count": 1,
+          "id": "AA-PESTILENCE"
+        },
+        {
+          "count": 1,
+          "id": "AA-PIN"
+        },
+        {
+          "count": 1,
+          "id": "AA-POLYCEPHALUS"
+        },
+        {
+          "count": 1,
+          "id": "AA-RAG-MAN"
+        },
+        {
+          "count": 1,
+          "id": "AA-RAG-MEGA"
+        },
+        {
+          "count": 1,
+          "id": "AA-SATAN"
+        },
+        {
+          "count": 1,
+          "id": "AA-SECRET-ROOM"
+        },
+        {
+          "count": 1,
+          "id": "AA-SHOP-UPGRADE"
+        },
+        {
+          "count": 1,
+          "id": "AA-THE-BEAST"
+        },
+        {
+          "count": 1,
+          "id": "AA-THE-BLOAT"
+        },
+        {
+          "count": 1,
+          "id": "AA-THE-DUKE-OF-FLIES"
+        },
+        {
+          "count": 1,
+          "id": "AA-THE-LAMB"
+        },
+        {
+          "count": 1,
+          "id": "AA-TWITCHY"
+        },
+        {
+          "count": 1,
+          "id": "AA-ULTRA-GREED"
+        },
+        {
+          "count": 1,
+          "id": "ANNI-GAME-CRASH"
+        },
+        {
+          "count": 1,
+          "id": "ANNI-KEEPERS-RESTING-PLACE"
+        },
+        {
+          "count": 1,
+          "id": "ANNI-PATCH-NOTES"
+        },
+        {
+          "count": 1,
+          "id": "ANNI-TAINTED-SPITTY"
+        },
+        {
+          "count": 1,
+          "id": "ANNI-WRATH-OF-THE-LAMB"
+        },
+        {
+          "count": 1,
+          "id": "B2-AMBUSH"
+        },
+        {
+          "count": 1,
+          "id": "B2-BIG-SPIDER"
+        },
+        {
+          "count": 1,
+          "id": "B2-BLACK-BONY"
+        },
+        {
+          "count": 1,
+          "id": "B2-BOOM-FLY"
+        },
+        {
+          "count": 1,
+          "id": "B2-CARRION-QUEEN"
+        },
+        {
+          "count": 1,
+          "id": "B2-CHEST"
+        },
+        {
+          "count": 1,
+          "id": "B2-CHEST-2"
+        },
+        {
+          "count": 1,
+          "id": "B2-CHUB"
+        },
+        {
+          "count": 1,
+          "id": "B2-CLOTTY"
+        },
+        {
+          "count": 1,
+          "id": "B2-COD-WORM"
+        },
+        {
+          "count": 1,
+          "id": "B2-CONJOINED-FATTY"
+        },
+        {
+          "count": 1,
+          "id": "B2-CONQUEST"
+        },
+        {
+          "count": 1,
+          "id": "B2-CURSE-OF-AMNESIA"
+        },
+        {
+          "count": 1,
+          "id": "B2-CURSE-OF-GREED"
+        },
+        {
+          "count": 1,
+          "id": "B2-CURSE-OF-LOSS"
+        },
+        {
+          "count": 1,
+          "id": "B2-CURSE-OF-PAIN"
+        },
+        {
+          "count": 1,
+          "id": "B2-CURSE-OF-THE-BLIND"
+        },
+        {
+          "count": 1,
+          "id": "B2-CURSED-CHEST"
+        },
+        {
+          "count": 1,
+          "id": "B2-CURSED-FATTY"
+        },
+        {
+          "count": 1,
+          "id": "B2-CURSED-GAPER"
+        },
+        {
+          "count": 1,
+          "id": "B2-CURSED-HORF"
+        },
+        {
+          "count": 1,
+          "id": "B2-CURSED-KEEPER-HEAD"
+        },
+        {
+          "count": 1,
+          "id": "B2-CURSED-MOMS-HAND"
+        },
+        {
+          "count": 1,
+          "id": "B2-CURSED-PSY-HORF"
+        },
+        {
+          "count": 1,
+          "id": "B2-DADDY-LONG-LEGS"
+        },
+        {
+          "count": 1,
+          "id": "B2-DANK-GLOBIN"
+        },
+        {
+          "count": 1,
+          "id": "B2-DARK-CHEST"
+        },
+        {
+          "count": 1,
+          "id": "B2-DARK-CHEST-2"
+        },
+        {
+          "count": 1,
+          "id": "B2-DARK-ONE"
+        },
+        {
+          "count": 1,
+          "id": "B2-DEATH"
+        },
+        {
+          "count": 1,
+          "id": "B2-DELIRIUM"
+        },
+        {
+          "count": 1,
+          "id": "B2-DEVIL-DEAL"
+        },
+        {
+          "count": 1,
+          "id": "B2-DINGA"
+        },
+        {
+          "count": 1,
+          "id": "B2-DIP"
+        },
+        {
+          "count": 1,
+          "id": "B2-DOPLE"
+        },
+        {
+          "count": 1,
+          "id": "B2-ENVY"
+        },
+        {
+          "count": 1,
+          "id": "B2-EVIL-TWIN"
+        },
+        {
+          "count": 1,
+          "id": "B2-FAMINE"
+        },
+        {
+          "count": 1,
+          "id": "B2-FAT-BAT"
+        },
+        {
+          "count": 1,
+          "id": "B2-FATTY"
+        },
+        {
+          "count": 1,
+          "id": "B2-FLY"
+        },
+        {
+          "count": 1,
+          "id": "B2-GEMINI"
+        },
+        {
+          "count": 1,
+          "id": "B2-GLUTTONY"
+        },
+        {
+          "count": 1,
+          "id": "B2-GOLD-CHEST"
+        },
+        {
+          "count": 1,
+          "id": "B2-GOLD-CHEST-2"
+        },
+        {
+          "count": 1,
+          "id": "B2-GREED"
+        },
+        {
+          "count": 1,
+          "id": "B2-GREED-EVENT"
+        },
+        {
+          "count": 1,
+          "id": "B2-GREEDLING"
+        },
+        {
+          "count": 1,
+          "id": "B2-GURDY"
+        },
+        {
+          "count": 1,
+          "id": "B2-GURDY-JR"
+        },
+        {
+          "count": 1,
+          "id": "B2-HANGER"
+        },
+        {
+          "count": 1,
+          "id": "B2-HOLY-DINGA"
+        },
+        {
+          "count": 1,
+          "id": "B2-HOLY-DIP"
+        },
+        {
+          "count": 1,
+          "id": "B2-HOLY-KEEPER-HEAD"
+        },
+        {
+          "count": 1,
+          "id": "B2-HOLY-MOMS-EYE"
+        },
+        {
+          "count": 1,
+          "id": "B2-HOLY-SQUIRT"
+        },
+        {
+          "count": 1,
+          "id": "B2-HOPPER"
+        },
+        {
+          "count": 1,
+          "id": "B2-HORF"
+        },
+        {
+          "count": 1,
+          "id": "B2-I-CAN-SEE-FOREVER"
+        },
+        {
+          "count": 1,
+          "id": "B2-KEEPER-HEAD"
+        },
+        {
+          "count": 1,
+          "id": "B2-LARRY-JR"
+        },
+        {
+          "count": 1,
+          "id": "B2-LEAPER"
+        },
+        {
+          "count": 1,
+          "id": "B2-LEECH"
+        },
+        {
+          "count": 1,
+          "id": "B2-LITTLE-HORN"
+        },
+        {
+          "count": 1,
+          "id": "B2-LUST"
+        },
+        {
+          "count": 1,
+          "id": "B2-MASK-OF-INFAMY"
+        },
+        {
+          "count": 1,
+          "id": "B2-MEGA-FATTY"
+        },
+        {
+          "count": 1,
+          "id": "B2-MEGA-TROLL-BOMB"
+        },
+        {
+          "count": 1,
+          "id": "B2-MOM"
+        },
+        {
+          "count": 1,
+          "id": "B2-MOMS-DEAD-HAND"
+        },
+        {
+          "count": 1,
+          "id": "B2-MOMS-EYE"
+        },
+        {
+          "count": 1,
+          "id": "B2-MOMS-HAND"
+        },
+        {
+          "count": 1,
+          "id": "B2-MONSTRO"
+        },
+        {
+          "count": 1,
+          "id": "B2-MULLIBOOM"
+        },
+        {
+          "count": 1,
+          "id": "B2-MULLIGAN"
+        },
+        {
+          "count": 1,
+          "id": "B2-PALE-FATTY"
+        },
+        {
+          "count": 1,
+          "id": "B2-PEEP"
+        },
+        {
+          "count": 1,
+          "id": "B2-PESTILENCE"
+        },
+        {
+          "count": 1,
+          "id": "B2-PIN"
+        },
+        {
+          "count": 1,
+          "id": "B2-POOTER"
+        },
+        {
+          "count": 1,
+          "id": "B2-PORTAL"
+        },
+        {
+          "count": 1,
+          "id": "B2-PRIDE"
+        },
+        {
+          "count": 1,
+          "id": "B2-PSY-HORF"
+        },
+        {
+          "count": 1,
+          "id": "B2-RAG-MAN"
+        },
+        {
+          "count": 1,
+          "id": "B2-RAGE-CREEP"
+        },
+        {
+          "count": 1,
+          "id": "B2-RED-HOST"
+        },
+        {
+          "count": 1,
+          "id": "B2-RING-OF-FLIES"
+        },
+        {
+          "count": 1,
+          "id": "B2-SATAN"
+        },
+        {
+          "count": 1,
+          "id": "B2-SCOLEX"
+        },
+        {
+          "count": 1,
+          "id": "B2-SECRET-ROOM"
+        },
+        {
+          "count": 1,
+          "id": "B2-SHOP-UPGRADE"
+        },
+        {
+          "count": 1,
+          "id": "B2-SLOTH"
+        },
+        {
+          "count": 1,
+          "id": "B2-SPIDER"
+        },
+        {
+          "count": 1,
+          "id": "B2-SQUIRT"
+        },
+        {
+          "count": 1,
+          "id": "B2-STONEY"
+        },
+        {
+          "count": 1,
+          "id": "B2-SWARM-OF-FLIES"
+        },
+        {
+          "count": 1,
+          "id": "B2-THE-BLOAT"
+        },
+        {
+          "count": 1,
+          "id": "B2-THE-DUKE-OF-FLIES"
+        },
+        {
+          "count": 1,
+          "id": "B2-THE-HAUNT"
+        },
+        {
+          "count": 1,
+          "id": "B2-THE-LAMB"
+        },
+        {
+          "count": 1,
+          "id": "B2-TRITE"
+        },
+        {
+          "count": 1,
+          "id": "B2-TROLL-BOMBS"
+        },
+        {
+          "count": 1,
+          "id": "B2-WAR"
+        },
+        {
+          "count": 1,
+          "id": "B2-WE-NEED-TO-GO-DEEPER"
+        },
+        {
+          "count": 1,
+          "id": "B2-WIZOOB"
+        },
+        {
+          "count": 1,
+          "id": "B2-WRATH"
+        },
+        {
+          "count": 1,
+          "id": "B2-XL-FLOOR"
+        },
+        {
+          "count": 1,
+          "id": "BOX-BIG-HORN"
+        },
+        {
+          "count": 1,
+          "id": "BOX-CHRISTIAN-BROADCASTS"
+        },
+        {
+          "count": 1,
+          "id": "BOX-DELIRIUM"
+        },
+        {
+          "count": 1,
+          "id": "BOX-DELIRIUM-2"
+        },
+        {
+          "count": 1,
+          "id": "BOX-DOGMA"
+        },
+        {
+          "count": 1,
+          "id": "BOX-EGGY"
+        },
+        {
+          "count": 1,
+          "id": "BOX-EVIS"
+        },
+        {
+          "count": 1,
+          "id": "BOX-GREEDLING-RUSH"
+        },
+        {
+          "count": 1,
+          "id": "BOX-LARRY-JR"
+        },
+        {
+          "count": 1,
+          "id": "BOX-LOKI"
+        },
+        {
+          "count": 1,
+          "id": "BOX-TERATOMA"
+        },
+        {
+          "count": 1,
+          "id": "BOX-THE-ADVERSARY"
+        },
+        {
+          "count": 1,
+          "id": "BOX-TV-STATIC"
+        },
+        {
+          "count": 1,
+          "id": "CHALLENGE-BLANK-CANVAS"
+        },
+        {
+          "count": 1,
+          "id": "CHALLENGE-BLANK-CANVAS-2"
+        },
+        {
+          "count": 1,
+          "id": "DK-DICK-KNOT"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-ANGEL-ROOM"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-BLASTOCYST"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-BONY"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-BOSS-RUSH"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-BRAIN"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-CURSE-OF-BLOOD-LUST"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-CURSE-OF-IMPULSE"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-CURSED-GLOBIN"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-CURSED-TUMOR"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-DINGLE"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-FLAMING-HOPPER"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-GLOBIN"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-HEAD-TRAUMA"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-HEADLESS-HORSEMAN"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-HOLY-BONY"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-HOLY-CHEST"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-HOLY-MULLIGAN"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-ISAAC"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-KRAMPUS"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-MOMS-HEART"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-MONSTRO-II"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-NERVE-ENDING"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-ROUNDY"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-SPIKED-CHEST"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-SUCKER"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-SWARMER"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-THE-FALLEN"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-TROLL-BOMBS"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-TUMOR"
+        },
+        {
+          "count": 1,
+          "id": "FSP2-WIDOW"
+        },
+        {
+          "count": 1,
+          "id": "G2-BEGOTTEN"
+        },
+        {
+          "count": 1,
+          "id": "G2-BOIL"
+        },
+        {
+          "count": 1,
+          "id": "G2-CHARGER"
+        },
+        {
+          "count": 1,
+          "id": "G2-CURSE-OF-FATIGUE"
+        },
+        {
+          "count": 1,
+          "id": "G2-CURSE-OF-TINY-HANDS"
+        },
+        {
+          "count": 1,
+          "id": "G2-DEATHS-HEAD"
+        },
+        {
+          "count": 1,
+          "id": "G2-FISTULA"
+        },
+        {
+          "count": 1,
+          "id": "G2-GAPER"
+        },
+        {
+          "count": 1,
+          "id": "G2-GURGLINGS"
+        },
+        {
+          "count": 1,
+          "id": "G2-HUSH"
+        },
+        {
+          "count": 1,
+          "id": "G2-I-AM-ERROR"
+        },
+        {
+          "count": 1,
+          "id": "G2-IMP"
+        },
+        {
+          "count": 1,
+          "id": "G2-KNIGHT"
+        },
+        {
+          "count": 1,
+          "id": "G2-PARABITE"
+        },
+        {
+          "count": 1,
+          "id": "G2-POLYCEPHALUS"
+        },
+        {
+          "count": 1,
+          "id": "G2-RAGLING"
+        },
+        {
+          "count": 1,
+          "id": "G2-ROUND-WORM"
+        },
+        {
+          "count": 1,
+          "id": "G2-STEVEN"
+        },
+        {
+          "count": 1,
+          "id": "G2-THE-CAGE"
+        },
+        {
+          "count": 1,
+          "id": "G2-TRAP-DOOR"
+        },
+        {
+          "count": 1,
+          "id": "GI-GISH"
+        },
+        {
+          "count": 1,
+          "id": "MEW-RADICAL-RAT"
+        },
+        {
+          "count": 1,
+          "id": "P-CONQUEST"
+        },
+        {
+          "count": 1,
+          "id": "P-CORRUPTED-DATA"
+        },
+        {
+          "count": 1,
+          "id": "P-DEATH"
+        },
+        {
+          "count": 1,
+          "id": "P-FAMINE"
+        },
+        {
+          "count": 1,
+          "id": "P-HENRY"
+        },
+        {
+          "count": 1,
+          "id": "P-HENRY-2"
+        },
+        {
+          "count": 1,
+          "id": "P-IT-LIVES"
+        },
+        {
+          "count": 1,
+          "id": "P-MOMS-CHARMED-HEART"
+        },
+        {
+          "count": 1,
+          "id": "P-PESTILENCE"
+        },
+        {
+          "count": 1,
+          "id": "P-RAG-MAN"
+        },
+        {
+          "count": 1,
+          "id": "P-THE-BLOAT-2"
+        },
+        {
+          "count": 1,
+          "id": "P-THE-BLOAT-3"
+        },
+        {
+          "count": 1,
+          "id": "P-THE-DUKE-OF-FLIES-BUT-REALLY-ITS-THE-BLOAT"
+        },
+        {
+          "count": 1,
+          "id": "P-ULTRA-PRIDE"
+        },
+        {
+          "count": 1,
+          "id": "P-WAR"
+        },
+        {
+          "count": 1,
+          "id": "R-BABY-PLUM"
+        },
+        {
+          "count": 1,
+          "id": "R-BETRAYAL"
+        },
+        {
+          "count": 1,
+          "id": "R-BROWNIE"
+        },
+        {
+          "count": 1,
+          "id": "R-CHARMED-BONY"
+        },
+        {
+          "count": 1,
+          "id": "R-CHARMED-CLOTTY"
+        },
+        {
+          "count": 1,
+          "id": "R-CHARMED-DIP"
+        },
+        {
+          "count": 1,
+          "id": "R-CHARMED-FAT-BAT"
+        },
+        {
+          "count": 1,
+          "id": "R-CHARMED-FATTY"
+        },
+        {
+          "count": 1,
+          "id": "R-CHARMED-GLOBIN"
+        },
+        {
+          "count": 1,
+          "id": "R-CHARMED-GREEDLING"
+        },
+        {
+          "count": 1,
+          "id": "R-CHARMED-KEEPER"
+        },
+        {
+          "count": 1,
+          "id": "R-CHARMED-MONSTRO"
+        },
+        {
+          "count": 1,
+          "id": "R-CLOG"
+        },
+        {
+          "count": 1,
+          "id": "R-CORNY"
+        },
+        {
+          "count": 1,
+          "id": "R-CURSE-OF-EMPATHY"
+        },
+        {
+          "count": 1,
+          "id": "R-CURSE-OF-THE-HOLLOW"
+        },
+        {
+          "count": 1,
+          "id": "R-CURSE-OF-THE-HUNTED"
+        },
+        {
+          "count": 1,
+          "id": "R-CURSE-OF-THE-SOULLESS"
+        },
+        {
+          "count": 1,
+          "id": "R-CURSED-DOPLE"
+        },
+        {
+          "count": 1,
+          "id": "R-CURSED-LIL-HAUNT"
+        },
+        {
+          "count": 1,
+          "id": "R-CURSED-MULLIBOOM"
+        },
+        {
+          "count": 1,
+          "id": "R-CURSED-MULLIGAN"
+        },
+        {
+          "count": 1,
+          "id": "R-DOGMA"
+        },
+        {
+          "count": 1,
+          "id": "R-DOUBLE-TREASURE"
+        },
+        {
+          "count": 1,
+          "id": "R-DRESSING-TABLE"
+        },
+        {
+          "count": 1,
+          "id": "R-GOLDEN-TROLL-BOMB"
+        },
+        {
+          "count": 1,
+          "id": "R-GUTTED-FATTY"
+        },
+        {
+          "count": 1,
+          "id": "R-HOLY-BRAIN"
+        },
+        {
+          "count": 1,
+          "id": "R-HOLY-GREEDLING"
+        },
+        {
+          "count": 1,
+          "id": "R-HOLY-PORTAL"
+        },
+        {
+          "count": 1,
+          "id": "R-HOLY-PSY-HORF"
+        },
+        {
+          "count": 1,
+          "id": "R-HORNFEL"
+        },
+        {
+          "count": 1,
+          "id": "R-LUST-FOR-BLOOD"
+        },
+        {
+          "count": 1,
+          "id": "R-MAMA-GURDY"
+        },
+        {
+          "count": 1,
+          "id": "R-MEGA-SATAN"
+        },
+        {
+          "count": 1,
+          "id": "R-MOTHER"
+        },
+        {
+          "count": 1,
+          "id": "R-MOTHERS-SHADOW"
+        },
+        {
+          "count": 1,
+          "id": "R-MUSHROOM"
+        },
+        {
+          "count": 1,
+          "id": "R-NULL"
+        },
+        {
+          "count": 1,
+          "id": "R-OVERFLOW"
+        },
+        {
+          "count": 1,
+          "id": "R-PEEPING-FATTY"
+        },
+        {
+          "count": 1,
+          "id": "R-PITFALL"
+        },
+        {
+          "count": 1,
+          "id": "R-RAG-MEGA"
+        },
+        {
+          "count": 1,
+          "id": "R-RED-GHOST"
+        },
+        {
+          "count": 1,
+          "id": "R-SISTERS-VIS"
+        },
+        {
+          "count": 1,
+          "id": "R-THE-RAINMAKER"
+        },
+        {
+          "count": 1,
+          "id": "R-THE-SCOURGE"
+        },
+        {
+          "count": 1,
+          "id": "R-THE-SIREN"
+        },
+        {
+          "count": 1,
+          "id": "R-TNT-BARREL"
+        },
+        {
+          "count": 1,
+          "id": "R-TROLL-BOMBS"
+        },
+        {
+          "count": 1,
+          "id": "R-TURDLINGS"
+        },
+        {
+          "count": 1,
+          "id": "R-ULTRA-GREED"
+        },
+        {
+          "count": 1,
+          "id": "R-WHIPPER"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-A-DEAD-HORSE"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-BALLOS"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-BALROG"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-BREA-IN-DISTRESS"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-CURSE-OF-THE-SUSPICIOUS"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-DEATH-TRAPPER"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-DONT-STARVE"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-EXPOSITO"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-FUCK-BLOAT"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-GOLDEN-IDOL"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-GRANDPARENT"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-GRUBFATHER"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-HUBERT-CUMBERDALE"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-JAVON"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-KEKE-IS-YOU"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-LEATHERNECK"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-LIL-HUNTER"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-MELQUIADES"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-NIGHTMARE-TICK"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-PEEPER"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-QWOP"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-SHOPKEEPER"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-THE-BUTCHER"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-THE-COLLECTOR"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-THE-GORM"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-THE-IMPOSTOR"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-THE-PURPLE-SHIRTED-EYE-STABBER"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-THE-RADIANCE"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-TIME-EATER"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-TRIAL-BY-TROLLEY"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-ZOMBIE-JESUS"
+        },
+        {
+          "count": 1,
+          "id": "SOI-CEREUS-PEASHY"
+        },
+        {
+          "count": 1,
+          "id": "SOI-CHARMED-VIS"
+        },
+        {
+          "count": 1,
+          "id": "SOI-COIL"
+        },
+        {
+          "count": 1,
+          "id": "SOI-CONJOINED-FATTY"
+        },
+        {
+          "count": 1,
+          "id": "SOI-CONQUEST"
+        },
+        {
+          "count": 1,
+          "id": "SOI-CURSE-OF-ENVY"
+        },
+        {
+          "count": 1,
+          "id": "SOI-CURSED-HAUNT"
+        },
+        {
+          "count": 1,
+          "id": "SOI-DOGMA"
+        },
+        {
+          "count": 1,
+          "id": "SOI-GEMINI"
+        },
+        {
+          "count": 1,
+          "id": "SOI-GIANT-POOP"
+        },
+        {
+          "count": 1,
+          "id": "SOI-HEADLESS-HORSEMAN"
+        },
+        {
+          "count": 1,
+          "id": "SOI-HOLY-GREED"
+        },
+        {
+          "count": 1,
+          "id": "SOI-HOT-POTATO"
+        },
+        {
+          "count": 1,
+          "id": "SOI-HUSH"
+        },
+        {
+          "count": 1,
+          "id": "SOI-KRAMPUS"
+        },
+        {
+          "count": 1,
+          "id": "SOI-LIGHT-SWITCH"
+        },
+        {
+          "count": 1,
+          "id": "SOI-MOTHER"
+        },
+        {
+          "count": 1,
+          "id": "SOI-MULLIGOON"
+        },
+        {
+          "count": 1,
+          "id": "SOI-POLICE-LINEUP"
+        },
+        {
+          "count": 1,
+          "id": "SOI-SHOPKEEPER"
+        },
+        {
+          "count": 1,
+          "id": "SOI-TAINTED-MULLIGAN"
+        },
+        {
+          "count": 1,
+          "id": "SOI-THE-ADVERSARY"
+        },
+        {
+          "count": 1,
+          "id": "SOI-THE-BLOAT"
+        },
+        {
+          "count": 1,
+          "id": "SOI-THE-RAINMAKER"
+        },
+        {
+          "count": 1,
+          "id": "SOI-WAR"
+        },
+        {
+          "count": 1,
+          "id": "SOI-WELTLING"
+        },
+        {
+          "count": 1,
+          "id": "SOI-WIDOW"
+        },
+        {
+          "count": 1,
+          "id": "TW-TAPEWORM-MONSTER"
+        },
+        {
+          "count": 1,
+          "id": "YTZ-DEVIL-DEAL"
+        }
+      ],
+      "Room": [
+        {
+          "count": 1,
+          "id": "ANNI-DAILY-RUN"
+        },
+        {
+          "count": 1,
+          "id": "ANNI-GREED-MODE"
+        },
+        {
+          "count": 1,
+          "id": "ANNI-GUPPYS-PIECES"
+        },
+        {
+          "count": 1,
+          "id": "ANNI-MULTIPLAYER-UPDATE"
+        },
+        {
+          "count": 1,
+          "id": "P-BLACK-MARKET"
+        },
+        {
+          "count": 1,
+          "id": "R-ALL-HALLOWS-EVE"
+        },
+        {
+          "count": 1,
+          "id": "R-ANGELIC-INTERVENTION"
+        },
+        {
+          "count": 1,
+          "id": "R-BATTLE-ROYALE"
+        },
+        {
+          "count": 1,
+          "id": "R-BATTLE-ROYALE-2"
+        },
+        {
+          "count": 1,
+          "id": "R-BATTLE-ROYALE-3"
+        },
+        {
+          "count": 1,
+          "id": "R-BEGGAR"
+        },
+        {
+          "count": 1,
+          "id": "R-BLACK-CHAMPIONS"
+        },
+        {
+          "count": 1,
+          "id": "R-BLESSING-OF-GLUTTONY"
+        },
+        {
+          "count": 1,
+          "id": "R-BLESSING-OF-GREED"
+        },
+        {
+          "count": 1,
+          "id": "R-BLESSING-OF-STEAM"
+        },
+        {
+          "count": 1,
+          "id": "R-BLESSING-OF-THE-INNER-EYE"
+        },
+        {
+          "count": 1,
+          "id": "R-BLESSING-OF-THE-SACK"
+        },
+        {
+          "count": 1,
+          "id": "R-BLIND-RAGE"
+        },
+        {
+          "count": 1,
+          "id": "R-BLOOD-DONATION"
+        },
+        {
+          "count": 1,
+          "id": "R-BLOOD-LUST"
+        },
+        {
+          "count": 1,
+          "id": "R-BLOOD-MONEY"
+        },
+        {
+          "count": 1,
+          "id": "R-BOMB-BUM"
+        },
+        {
+          "count": 1,
+          "id": "R-BUM-BO-IS-LOOSE"
+        },
+        {
+          "count": 1,
+          "id": "R-BUTTER-FINGERS"
+        },
+        {
+          "count": 1,
+          "id": "R-CHALLENGE-ROOM"
+        },
+        {
+          "count": 1,
+          "id": "R-CONJOINED-TWIN"
+        },
+        {
+          "count": 1,
+          "id": "R-DEVIL-BEGGAR"
+        },
+        {
+          "count": 1,
+          "id": "R-DICE-ROOM-1"
+        },
+        {
+          "count": 1,
+          "id": "R-DICE-ROOM-2"
+        },
+        {
+          "count": 1,
+          "id": "R-DICE-ROOM-3"
+        },
+        {
+          "count": 1,
+          "id": "R-DICE-ROOM-4"
+        },
+        {
+          "count": 1,
+          "id": "R-DICE-ROOM-5"
+        },
+        {
+          "count": 1,
+          "id": "R-DICE-ROOM-6"
+        },
+        {
+          "count": 1,
+          "id": "R-EDENS-BLESSING"
+        },
+        {
+          "count": 1,
+          "id": "R-EQUALITY"
+        },
+        {
+          "count": 1,
+          "id": "R-ETERNAL-CHEST"
+        },
+        {
+          "count": 1,
+          "id": "R-FLOOR-SPIKES"
+        },
+        {
+          "count": 1,
+          "id": "R-FORTUNE-TELLER"
+        },
+        {
+          "count": 1,
+          "id": "R-GREED-LOOMS"
+        },
+        {
+          "count": 1,
+          "id": "R-GUS"
+        },
+        {
+          "count": 1,
+          "id": "R-HAUNTED"
+        },
+        {
+          "count": 1,
+          "id": "R-HEAVY-IS-THE-HEAD"
+        },
+        {
+          "count": 1,
+          "id": "R-I-AM-ERROR"
+        },
+        {
+          "count": 1,
+          "id": "R-ISAACS-BLESSING"
+        },
+        {
+          "count": 1,
+          "id": "R-KEY-MASTER"
+        },
+        {
+          "count": 1,
+          "id": "R-LASER-EYE"
+        },
+        {
+          "count": 1,
+          "id": "R-MAGGYS-BLESSING"
+        },
+        {
+          "count": 1,
+          "id": "R-MIGHT-FOR-THE-MEEK"
+        },
+        {
+          "count": 1,
+          "id": "R-PITY-FOR-THE-POOR"
+        },
+        {
+          "count": 1,
+          "id": "R-PLANETARIUM"
+        },
+        {
+          "count": 1,
+          "id": "R-RED-CHAMPIONS"
+        },
+        {
+          "count": 1,
+          "id": "R-RED-VISE"
+        },
+        {
+          "count": 1,
+          "id": "R-RESTOCK-MACHINE"
+        },
+        {
+          "count": 1,
+          "id": "R-SAMSONS-BLESSING"
+        },
+        {
+          "count": 1,
+          "id": "R-SHADOW-OF-FAMINE"
+        },
+        {
+          "count": 1,
+          "id": "R-SHADOW-OF-WAR"
+        },
+        {
+          "count": 1,
+          "id": "R-SHELL-GAME"
+        },
+        {
+          "count": 1,
+          "id": "R-SLOT-MACHINE"
+        },
+        {
+          "count": 1,
+          "id": "R-SOCIAL-GOALS"
+        },
+        {
+          "count": 1,
+          "id": "R-SPIDER-WEBS"
+        },
+        {
+          "count": 1,
+          "id": "R-SPLASH-DAMAGE"
+        },
+        {
+          "count": 1,
+          "id": "R-SPOILS-OF-WAR"
+        },
+        {
+          "count": 1,
+          "id": "R-STATIC-SHOCK"
+        },
+        {
+          "count": 1,
+          "id": "R-TAX-FOR-THE-MIGHTY"
+        },
+        {
+          "count": 1,
+          "id": "R-THE-MIRROR"
+        },
+        {
+          "count": 1,
+          "id": "R-WHITE-CHAMPIONS"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-THE-ISAAC-OF-ISAAC-RE-ISAAC"
+        },
+        {
+          "count": 1,
+          "id": "SOI-EVERYTHING-MUST-GO"
+        }
+      ],
+      "BonusSoul": [
+        {
+          "count": 1,
+          "id": "B2-SOUL-OF-GLUTTONY"
+        },
+        {
+          "count": 1,
+          "id": "B2-SOUL-OF-GREED"
+        },
+        {
+          "count": 1,
+          "id": "B2-SOUL-OF-GUPPY"
+        },
+        {
+          "count": 1,
+          "id": "R-SOUL-OF-ENVY"
+        },
+        {
+          "count": 1,
+          "id": "R-SOUL-OF-LUST"
+        },
+        {
+          "count": 1,
+          "id": "R-SOUL-OF-PRIDE"
+        },
+        {
+          "count": 1,
+          "id": "R-SOUL-OF-SLOTH"
+        },
+        {
+          "count": 1,
+          "id": "R-SOUL-OF-WRATH"
+        },
+        {
+          "count": 1,
+          "id": "RWZ-STRAWBERRY"
+        }
+      ]
+    }
+  },
+  {
     "title": "FS Full Setup Pack (All Shared)",
-    "id": "51ffa29d-6af0-4f1d-b5bc-ce35f74bf3a5",
+    "id": "dbf2039a-b43e-4a2d-9888-58e7168fc50b",
     "game": "The Binding of Isaac: Four Souls",
     "format": "Classic",
     "cardCount": 996,
-    "createdAt": "2026-04-20T05:35:20Z",
-    "lastModifiedAt": "2026-04-20T05:35:20Z",
+    "createdAt": "2026-04-20T05:51:54Z",
+    "lastModifiedAt": "2026-04-20T05:51:54Z",
     "deckList": {
       "categoriesOrder": [
         "Loot",

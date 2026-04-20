@@ -59,24 +59,42 @@ def main() -> int:
     for t in by_type:
         by_type[t].sort()
 
+    loot_ids = by_type.get("Loot", [])
+    treasure_ids = by_type.get("Treasure", [])
+    monster_ids = by_type.get("Monster", [])
+    room_ids = by_type.get("Room", [])
+    bonus_soul_ids = by_type.get("BonusSoul", [])
+
     decks = [
-        deck("FS Shared Loot Deck (All)", args.game, args.format, {"Loot": by_type.get("Loot", [])}),
-        deck("FS Shared Treasure Deck (All)", args.game, args.format, {"Treasure": by_type.get("Treasure", [])}),
-        deck("FS Shared Monster Deck (All)", args.game, args.format, {"Monster": by_type.get("Monster", [])}),
-        deck("FS Shared Room Deck (All)", args.game, args.format, {"Room": by_type.get("Room", [])}),
-        deck("FS Shared Bonus Souls (All)", args.game, args.format, {"BonusSoul": by_type.get("BonusSoul", [])}),
+        deck("FS Shared Loot Deck (All)", args.game, args.format, {"Loot": loot_ids}),
+        deck("FS Shared Treasure Deck (All)", args.game, args.format, {"Treasure": treasure_ids}),
+        deck("FS Shared Monster Deck (All)", args.game, args.format, {"Monster": monster_ids}),
+        deck("FS Shared Room Deck (All)", args.game, args.format, {"Room": room_ids}),
+        deck("FS Shared Bonus Souls (All)", args.game, args.format, {"BonusSoul": bonus_soul_ids}),
         deck("FS Character Pool (All)", args.game, args.format, {"Character": by_type.get("Character", [])}),
         deck("FS Starting Items Pool (All)", args.game, args.format, {"Eternal": by_type.get("Eternal", [])}),
+        deck(
+            "FS Auto Setup Host",
+            args.game,
+            args.format,
+            {
+                "Loot": loot_ids,
+                "Treasure": treasure_ids,
+                "Monster": monster_ids,
+                "Room": room_ids,
+                "BonusSoul": bonus_soul_ids,
+            },
+        ),
         deck(
             "FS Full Setup Pack (All Shared)",
             args.game,
             args.format,
             {
-                "Loot": by_type.get("Loot", []),
-                "Treasure": by_type.get("Treasure", []),
-                "Monster": by_type.get("Monster", []),
-                "Room": by_type.get("Room", []),
-                "BonusSoul": by_type.get("BonusSoul", []),
+                "Loot": loot_ids,
+                "Treasure": treasure_ids,
+                "Monster": monster_ids,
+                "Room": room_ids,
+                "BonusSoul": bonus_soul_ids,
                 "Character": by_type.get("Character", []),
                 "Eternal": by_type.get("Eternal", []),
             },

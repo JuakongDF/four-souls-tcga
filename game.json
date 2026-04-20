@@ -7,7 +7,7 @@
     ],
     "decksUrl": "https://raw.githubusercontent.com/JuakongDF/four-souls-tcga/main/starter_decks.json"
   },
-  "customHelp": "TCG Arena appears to support only one player deck in the Start/Mulligan flow. For Four Souls, ignore the personal Draw zone. Load FS Shared Loot/Treasure/Monster/Room, FS Shared Bonus Souls, FS Character Pool, and FS Starting Items Pool from deckbuilder, place them in the shared zones, then manually draw 3 loot from Loot Deck and assign characters/items.",
+  "customHelp": "Experimental host setup: one player can select FS Auto Setup Host, then Start. The game will try to spread Loot/Treasure/Monster/Room/Bonus Soul cards into the shared zones automatically. Character assignment is still manual from FS Character Pool and FS Starting Items Pool.",
   "cardRotation": 0,
   "cards": {
     "dataUrl": "https://JuakongDF.github.io/four-souls-tcga/cards.json",
@@ -44,6 +44,60 @@
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false
       },
+      "beforeGameStart": {
+        "initialBoardSetup": [
+          {
+            "drawFromTop": "deck",
+            "count": 128,
+            "destination": "Loot Deck"
+          },
+          {
+            "drawFromTop": "deck",
+            "count": 1,
+            "destination": "Shop Slot 1"
+          },
+          {
+            "drawFromTop": "deck",
+            "count": 1,
+            "destination": "Shop Slot 2"
+          },
+          {
+            "drawFromTop": "deck",
+            "count": 276,
+            "destination": "Treasure Deck"
+          },
+          {
+            "drawFromTop": "deck",
+            "count": 1,
+            "destination": "Monster Slot 1"
+          },
+          {
+            "drawFromTop": "deck",
+            "count": 1,
+            "destination": "Monster Slot 2"
+          },
+          {
+            "drawFromTop": "deck",
+            "count": 348,
+            "destination": "Monster Deck"
+          },
+          {
+            "drawFromTop": "deck",
+            "count": 1,
+            "destination": "Room Slot"
+          },
+          {
+            "drawFromTop": "deck",
+            "count": 67,
+            "destination": "Room Deck"
+          },
+          {
+            "drawFromTop": "deck",
+            "count": 9,
+            "destination": "Bonus Souls"
+          }
+        ]
+      },
       "newTurn": {
         "drawOnStart": false,
         "sharedTurn": false,
@@ -70,6 +124,7 @@
           "Monster Discard",
           "Room Deck",
           "Room Discard",
+          "Bonus Souls",
           "Shop Slot 1",
           "Shop Slot 2",
           "Monster Slot 1",
@@ -213,6 +268,9 @@
                       "section": "Room Discard"
                     }
                   ]
+                },
+                {
+                  "section": "Bonus Souls"
                 }
               ]
             }
@@ -417,6 +475,22 @@
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Bonus Souls": {
+            "title": "Bonus Souls",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
             "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
