@@ -221,29 +221,30 @@
               ]
             }
           ]
-        },
-        "categoriesAlreadyOnBoard": [
-          "Character",
-          "Loot",
-          "Treasure",
-          "Monster",
-          "Room",
-          "BonusSoul",
-          "Eternal",
-          "Curse"
-        ],
-        "autoPlayFromHand": {
-          "Character": "Character",
-          "Eternal": "Items",
-          "Treasure": "Items",
-          "BonusSoul": "Souls",
-          "Curse": "Curses",
-          "Monster": "Monster Slot 1",
-          "Room": "Room Slot",
-          "Loot": "Stack"
-        },
-        "autoPlayFromStack": {},
-        "sectionsDict": {
+        }
+      },
+      "categoriesAlreadyOnBoard": [
+        "Character",
+        "Loot",
+        "Treasure",
+        "Monster",
+        "Room",
+        "BonusSoul",
+        "Eternal",
+        "Curse"
+      ],
+      "autoPlayFromHand": {
+        "Character": "Character",
+        "Eternal": "Items",
+        "Treasure": "Items",
+        "BonusSoul": "Souls",
+        "Curse": "Curses",
+        "Monster": "Monster Slot 1",
+        "Room": "Room Slot",
+        "Loot": "Stack"
+      },
+      "autoPlayFromStack": {},
+      "sectionsDict": {
           "Character": {
             "title": "Character",
             "isHidden": "no",
@@ -536,4 +537,3 @@
       }
     }
   }
-}
