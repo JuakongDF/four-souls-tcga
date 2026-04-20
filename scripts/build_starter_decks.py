@@ -74,7 +74,7 @@ def main() -> int:
         deck("FS Character Mulligan Deck (All)", args.game, args.format, {"Character": by_type.get("Character", [])}),
         deck("FS Starting Items Pool (All)", args.game, args.format, {"Eternal": by_type.get("Eternal", [])}),
         deck(
-            "FS Full Setup Pack (All Shared)",
+            "FS Host Shared Setup Pack (All Shared)",
             args.game,
             args.format,
             {

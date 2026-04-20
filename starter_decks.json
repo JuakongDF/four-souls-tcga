@@ -1,12 +1,12 @@
 [
   {
     "title": "FS Shared Loot Deck (All)",
-    "id": "38082fdf-4b7c-4b48-aa8a-7b91c453e1b1",
+    "id": "42af3d7b-6799-4d50-bcc7-fe410f1e6864",
     "game": "The Binding of Isaac: Four Souls",
     "format": "Classic",
     "cardCount": 128,
-    "createdAt": "2026-04-20T06:00:13Z",
-    "lastModifiedAt": "2026-04-20T06:00:13Z",
+    "createdAt": "2026-04-20T06:08:09Z",
+    "lastModifiedAt": "2026-04-20T06:08:09Z",
     "deckList": {
       "categoriesOrder": [
         "Loot"
@@ -529,12 +529,12 @@
   },
   {
     "title": "FS Shared Treasure Deck (All)",
-    "id": "804fcb88-da57-47ce-a61d-70232c3a9260",
+    "id": "29fc48ae-2743-4a2e-8e7a-5f528d66ef8d",
     "game": "The Binding of Isaac: Four Souls",
     "format": "Classic",
     "cardCount": 278,
-    "createdAt": "2026-04-20T06:00:13Z",
-    "lastModifiedAt": "2026-04-20T06:00:13Z",
+    "createdAt": "2026-04-20T06:08:09Z",
+    "lastModifiedAt": "2026-04-20T06:08:09Z",
     "deckList": {
       "categoriesOrder": [
         "Treasure"
@@ -1657,12 +1657,12 @@
   },
   {
     "title": "FS Shared Monster Deck (All)",
-    "id": "b4220d72-1043-435e-97d0-78f1de69b740",
+    "id": "353eee15-6d91-459b-932a-dce7a3638ae9",
     "game": "The Binding of Isaac: Four Souls",
     "format": "Classic",
     "cardCount": 350,
-    "createdAt": "2026-04-20T06:00:13Z",
-    "lastModifiedAt": "2026-04-20T06:00:13Z",
+    "createdAt": "2026-04-20T06:08:09Z",
+    "lastModifiedAt": "2026-04-20T06:08:09Z",
     "deckList": {
       "categoriesOrder": [
         "Monster"
@@ -3073,12 +3073,12 @@
   },
   {
     "title": "FS Shared Room Deck (All)",
-    "id": "3643e201-a8db-4a7c-b170-b65572d37cc5",
+    "id": "cfdbdf51-1785-44fe-a303-0e749f21d5be",
     "game": "The Binding of Isaac: Four Souls",
     "format": "Classic",
     "cardCount": 68,
-    "createdAt": "2026-04-20T06:00:13Z",
-    "lastModifiedAt": "2026-04-20T06:00:13Z",
+    "createdAt": "2026-04-20T06:08:09Z",
+    "lastModifiedAt": "2026-04-20T06:08:09Z",
     "deckList": {
       "categoriesOrder": [
         "Room"
@@ -3361,12 +3361,12 @@
   },
   {
     "title": "FS Shared Bonus Souls (All)",
-    "id": "7bf4839d-b0b7-4889-92fd-77050e6bf120",
+    "id": "3e467ef1-11ae-4925-89f9-b05110e68b60",
     "game": "The Binding of Isaac: Four Souls",
     "format": "Classic",
     "cardCount": 9,
-    "createdAt": "2026-04-20T06:00:13Z",
-    "lastModifiedAt": "2026-04-20T06:00:13Z",
+    "createdAt": "2026-04-20T06:08:09Z",
+    "lastModifiedAt": "2026-04-20T06:08:09Z",
     "deckList": {
       "categoriesOrder": [
         "BonusSoul"
@@ -3413,12 +3413,12 @@
   },
   {
     "title": "FS Character Mulligan Deck (All)",
-    "id": "7fdebd54-1893-486d-9d81-1218b7b9ef5c",
+    "id": "fb6de238-773d-4b58-a444-1a9f55e062cf",
     "game": "The Binding of Isaac: Four Souls",
     "format": "Classic",
     "cardCount": 96,
-    "createdAt": "2026-04-20T06:00:13Z",
-    "lastModifiedAt": "2026-04-20T06:00:13Z",
+    "createdAt": "2026-04-20T06:08:09Z",
+    "lastModifiedAt": "2026-04-20T06:08:09Z",
     "deckList": {
       "categoriesOrder": [
         "Character"
@@ -3813,12 +3813,12 @@
   },
   {
     "title": "FS Starting Items Pool (All)",
-    "id": "d498306e-11e8-4bc1-ae28-98fab58f6cee",
+    "id": "db799bbd-7cd6-44d1-b599-f120f698fe38",
     "game": "The Binding of Isaac: Four Souls",
     "format": "Classic",
     "cardCount": 67,
-    "createdAt": "2026-04-20T06:00:13Z",
-    "lastModifiedAt": "2026-04-20T06:00:13Z",
+    "createdAt": "2026-04-20T06:08:09Z",
+    "lastModifiedAt": "2026-04-20T06:08:09Z",
     "deckList": {
       "categoriesOrder": [
         "Eternal"
@@ -4096,13 +4096,13 @@
     }
   },
   {
-    "title": "FS Full Setup Pack (All Shared)",
-    "id": "062abe8c-a8b3-4b2d-8db9-11c4c37cb822",
+    "title": "FS Host Shared Setup Pack (All Shared)",
+    "id": "4e5b018f-5969-4483-9df3-197cc88aaa35",
     "game": "The Binding of Isaac: Four Souls",
     "format": "Classic",
     "cardCount": 996,
-    "createdAt": "2026-04-20T06:00:13Z",
-    "lastModifiedAt": "2026-04-20T06:00:13Z",
+    "createdAt": "2026-04-20T06:08:09Z",
+    "lastModifiedAt": "2026-04-20T06:08:09Z",
     "deckList": {
       "categoriesOrder": [
         "Loot",

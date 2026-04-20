@@ -7,7 +7,7 @@
     ],
     "decksUrl": "https://raw.githubusercontent.com/JuakongDF/four-souls-tcga/main/starter_decks.json"
   },
-  "customHelp": "Reliable setup flow for Four Souls in TCG Arena: each player selects FS Character Mulligan Deck (All) as their deck, draws 1 character, and may mulligan once. Then manually take the matching item from FS Starting Items Pool (All). If you pick Eden, reroll the item manually once from the item pool. The host manually loads FS Shared Loot/Treasure/Monster/Room/Bonus Souls into the shared zones; ignore the generic Draw zone for the main game.",
+  "customHelp": "TCG Arena appears to allow only one active deck per player slot. Recommended workaround: one player acts as host/setup and uses FS Host Shared Setup Pack (All Shared) or the individual FS Shared Loot/Treasure/Monster/Room/Bonus decks for the board. Other players use FS Character Mulligan Deck (All), draw 1 character, and may mulligan once. Then manually take the matching item from FS Starting Items Pool (All). If you pick Eden, reroll the item manually once from the item pool. Ignore the generic Draw zone for the main game.",
   "cardRotation": 0,
   "cards": {
     "dataUrl": "https://JuakongDF.github.io/four-souls-tcga/cards.json",
@@ -38,7 +38,7 @@
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "info": "Select FS Character Mulligan Deck (All) as your player deck. Draw 1 character and mulligan once if desired. Then manually take the matching eternal item from FS Starting Items Pool (All).",
+        "info": "Use FS Character Mulligan Deck (All) only for player character selection. Draw 1 character and mulligan once if desired. The host/setup player should use FS Host Shared Setup Pack (All Shared) or manually place the shared decks.",
         "startingHandSize": "1",
         "drawNewHand": true,
         "putSelectionAtBottom": false,
