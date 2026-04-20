@@ -10,7 +10,7 @@
   "customHelp": "Community-made Four Souls setup for TCG Arena. Replace cards.dataUrl with your hosted cards JSON.",
   "cardRotation": 0,
   "cards": {
-    "dataUrl": "https://example.com/four-souls/cards.json",
+    "dataUrl": "https://JuakongDF.github.io/four-souls-tcga/cards.json",
     "cardBack": "https://foursouls.com/wp-content/uploads/2021/10/TreasureCardBack.png",
     "extraCardBacks": {
       "Character": "https://foursouls.com/wp-content/uploads/2021/10/CharacterCardBack.png",
