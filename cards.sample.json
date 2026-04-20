@@ -1,0 +1,125 @@
+{
+  "B2-ISAAC": {
+    "id": "B2-ISAAC",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Isaac",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-isaac.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/CharacterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "isaac",
+    "type": "Character",
+    "cost": 0,
+    "set": "base game v2"
+  },
+  "B2-THE_D6": {
+    "id": "B2-THE_D6",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The D6",
+        "type": "Eternal",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-the_d6.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/EternalCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "the d6",
+    "type": "Eternal",
+    "cost": 0,
+    "set": "base game v2"
+  },
+  "B2-A_PENNY": {
+    "id": "B2-A_PENNY",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A Penny!",
+        "type": "Loot",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-a_penny.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/LootCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "a penny!",
+    "type": "Loot",
+    "cost": 0,
+    "set": "base game v2"
+  },
+  "B2-BREAKFAST": {
+    "id": "B2-BREAKFAST",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Breakfast",
+        "type": "Treasure",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-breakfast.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/TreasureCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "breakfast",
+    "type": "Treasure",
+    "cost": 0,
+    "set": "base game v2"
+  },
+  "B2-MONSTRO": {
+    "id": "B2-MONSTRO",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Monstro",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-monstro.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/MonsterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "monstro",
+    "type": "Monster",
+    "cost": 0,
+    "hp": 4,
+    "evade": 4,
+    "atk": 1,
+    "set": "base game v2"
+  }
+}

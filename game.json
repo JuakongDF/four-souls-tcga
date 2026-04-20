@@ -1,0 +1,225 @@
+{
+  "name": "The Binding of Isaac: Four Souls",
+  "menuBackgroundImage": "https://foursouls.com/wp-content/uploads/2022/01/b2-isaac.png",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1920&q=80"
+    ],
+    "decksUrl": ""
+  },
+  "customHelp": "Community-made Four Souls setup for TCG Arena. Replace cards.dataUrl with your hosted cards JSON.",
+  "cardRotation": 0,
+  "cards": {
+    "dataUrl": "https://example.com/four-souls/cards.json",
+    "cardBack": "https://foursouls.com/wp-content/uploads/2021/10/TreasureCardBack.png",
+    "extraCardBacks": {
+      "Character": "https://foursouls.com/wp-content/uploads/2021/10/CharacterCardBack.png",
+      "Eternal": "https://foursouls.com/wp-content/uploads/2021/10/EternalCardBack.png",
+      "Loot": "https://foursouls.com/wp-content/uploads/2021/10/LootCardBack.png",
+      "Monster": "https://foursouls.com/wp-content/uploads/2021/10/MonsterCardBack.png",
+      "Room": "https://foursouls.com/wp-content/uploads/2022/04/RoomCardBack.png"
+    }
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "Name",
+      "Type",
+      "Cost",
+      "Set"
+    ],
+    "formats": [
+      {
+        "title": "Classic",
+        "gameplay": "Classic",
+        "customCategories": []
+      }
+    ]
+  },
+  "gameplay": {
+    "Classic": {
+      "mulligan": {
+        "info": "Four Souls has no standard full redraw mulligan by default.",
+        "startingHandSize": "3",
+        "drawNewHand": false,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": true,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": 1
+      },
+      "defaultNotes": "Win condition: first player to 4 souls.",
+      "tokens": [],
+      "countersStartingValues": [
+        "0"
+      ],
+      "hideFacedDownCards": true,
+      "sections": {
+        "customSections": [
+          "Character",
+          "Items",
+          "Souls",
+          "Curses",
+          "Monster",
+          "Shop"
+        ],
+        "layout": {
+          "direction": "row",
+          "isSymetricalForOpponents": false,
+          "style": {
+            "gap": "2vh",
+            "padding": "2vh"
+          },
+          "content": [
+            {
+              "direction": "column",
+              "isSymetricalForOpponents": false,
+              "style": {
+                "width": "25%"
+              },
+              "content": [
+                {
+                  "section": "Character"
+                },
+                {
+                  "section": "Items"
+                },
+                {
+                  "section": "Souls"
+                },
+                {
+                  "section": "Curses"
+                }
+              ]
+            },
+            {
+              "section": "Monster",
+              "style": {
+                "width": "40%"
+              }
+            },
+            {
+              "section": "Shop",
+              "style": {
+                "width": "35%"
+              }
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "Character"
+        ],
+        "autoPlayFromHand": {
+          "Character": "Character",
+          "Eternal": "Items",
+          "Treasure": "Items",
+          "BonusSoul": "Souls",
+          "Curse": "Curses",
+          "Monster": "Monster",
+          "Loot": "Stack"
+        },
+        "autoPlayFromStack": {},
+        "sectionsDict": {
+          "Character": {
+            "title": "Character",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Items": {
+            "title": "Items",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Souls": {
+            "title": "Souls",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Curses": {
+            "title": "Curses",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Monster": {
+            "title": "Monster",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Shop": {
+            "title": "Shop",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}

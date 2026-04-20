@@ -1,0 +1,3098 @@
+{
+  "B2-A-DIME": {
+    "id": "B2-A-DIME",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A Dime!!",
+        "type": "Loot",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-a_dime.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/LootCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "a dime!!",
+    "type": "Loot",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-A-NICKEL": {
+    "id": "B2-A-NICKEL",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A Nickel!",
+        "type": "Loot",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-a_nickel.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/LootCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "a nickel!",
+    "type": "Loot",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-A-PENNY-6": {
+    "id": "B2-A-PENNY-6",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A Penny!",
+        "type": "Loot",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-a_penny_6.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/LootCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "a penny!",
+    "type": "Loot",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-BELLY-BUTTON": {
+    "id": "B2-BELLY-BUTTON",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Belly Button",
+        "type": "Treasure",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-belly_button.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/TreasureCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "belly button",
+    "type": "Treasure",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-BIG-SPIDER": {
+    "id": "B2-BIG-SPIDER",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Big Spider",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-big_spider.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/MonsterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "big spider",
+    "type": "Monster",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-BLACK-BONY": {
+    "id": "B2-BLACK-BONY",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Black Bony",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-black_bony.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/MonsterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "black bony",
+    "type": "Monster",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-BLOOD-LUST": {
+    "id": "B2-BLOOD-LUST",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blood Lust",
+        "type": "Eternal",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-blood_lust.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/EternalCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "blood lust",
+    "type": "Eternal",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-BLUE-BABY": {
+    "id": "B2-BLUE-BABY",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blue Baby",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-blue_baby.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/CharacterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "blue baby",
+    "type": "Character",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-BOBS-BRAIN": {
+    "id": "B2-BOBS-BRAIN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bob\u2019s Brain",
+        "type": "Treasure",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-bobs_brain.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/TreasureCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "bob\u2019s brain",
+    "type": "Treasure",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-BOMB": {
+    "id": "B2-BOMB",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bomb!",
+        "type": "Loot",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-bomb.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/LootCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "bomb!",
+    "type": "Loot",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-BOOK-OF-BELIAL": {
+    "id": "B2-BOOK-OF-BELIAL",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Book Of Belial",
+        "type": "Eternal",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-book_of_belial.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/EternalCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "book of belial",
+    "type": "Eternal",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-BOOM-FLY": {
+    "id": "B2-BOOM-FLY",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Boom Fly",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-boom_fly.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/MonsterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "boom fly",
+    "type": "Monster",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-BREAKFAST": {
+    "id": "B2-BREAKFAST",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Breakfast",
+        "type": "Treasure",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-breakfast.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/TreasureCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "breakfast",
+    "type": "Treasure",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-BRIMSTONE": {
+    "id": "B2-BRIMSTONE",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Brimstone",
+        "type": "Treasure",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-brimstone.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/TreasureCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "brimstone",
+    "type": "Treasure",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-BUM-BO": {
+    "id": "B2-BUM-BO",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bum-Bo!",
+        "type": "Treasure",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-bum_bo.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/TreasureCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "bum-bo!",
+    "type": "Treasure",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-BUTTER-BEAN": {
+    "id": "B2-BUTTER-BEAN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Butter Bean!",
+        "type": "Loot",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-butter_bean.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/LootCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "butter bean!",
+    "type": "Loot",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-CAIN": {
+    "id": "B2-CAIN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cain",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-cain.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/CharacterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "cain",
+    "type": "Character",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-CAMBION-CONCEPTION": {
+    "id": "B2-CAMBION-CONCEPTION",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cambion Conception",
+        "type": "Treasure",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-cambion_conception.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/TreasureCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "cambion conception",
+    "type": "Treasure",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-CHAMPION-BELT": {
+    "id": "B2-CHAMPION-BELT",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Champion Belt",
+        "type": "Treasure",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-champion_belt.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/TreasureCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "champion belt",
+    "type": "Treasure",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-CHARGED-BABY": {
+    "id": "B2-CHARGED-BABY",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Charged Baby",
+        "type": "Treasure",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-charged_baby.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/TreasureCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "charged baby",
+    "type": "Treasure",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-CHEESE-GRATER": {
+    "id": "B2-CHEESE-GRATER",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cheese Grater",
+        "type": "Treasure",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-cheese_grater.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/TreasureCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "cheese grater",
+    "type": "Treasure",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-CLOTTY": {
+    "id": "B2-CLOTTY",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Clotty",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-clotty.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/MonsterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "clotty",
+    "type": "Monster",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-COD-WORM": {
+    "id": "B2-COD-WORM",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cod Worm",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-cod_worm.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/MonsterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "cod worm",
+    "type": "Monster",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-CONJOINED-FATTY": {
+    "id": "B2-CONJOINED-FATTY",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Conjoined Fatty",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-conjoined_fatty.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/MonsterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "conjoined fatty",
+    "type": "Monster",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-CURSE-OF-THE-TOWER": {
+    "id": "B2-CURSE-OF-THE-TOWER",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Curse Of The Tower",
+        "type": "Treasure",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-curse_of_the_tower.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/TreasureCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "curse of the tower",
+    "type": "Treasure",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-DADS-LOST-COIN": {
+    "id": "B2-DADS-LOST-COIN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dad\u2019s Lost Coin",
+        "type": "Treasure",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-dads_lost_coin.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/TreasureCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "dad\u2019s lost coin",
+    "type": "Treasure",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-DANK-GLOBIN": {
+    "id": "B2-DANK-GLOBIN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dank Globin",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-dank_globin.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/MonsterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "dank globin",
+    "type": "Monster",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-DARK-BUM": {
+    "id": "B2-DARK-BUM",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dark Bum",
+        "type": "Treasure",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-dark_bum.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/TreasureCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "dark bum",
+    "type": "Treasure",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-DEAD-BIRD": {
+    "id": "B2-DEAD-BIRD",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dead Bird",
+        "type": "Treasure",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-dead_bird.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/TreasureCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "dead bird",
+    "type": "Treasure",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-DELIRIUM": {
+    "id": "B2-DELIRIUM",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Delirium",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-delirium.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/MonsterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "delirium",
+    "type": "Monster",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-DICE-SHARD-3": {
+    "id": "B2-DICE-SHARD-3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dice Shard",
+        "type": "Loot",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-dice_shard_3.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/LootCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "dice shard",
+    "type": "Loot",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-DINGA": {
+    "id": "B2-DINGA",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dinga",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-dinga.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/MonsterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "dinga",
+    "type": "Monster",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-DINNER": {
+    "id": "B2-DINNER",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dinner",
+        "type": "Treasure",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-dinner.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/TreasureCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "dinner",
+    "type": "Treasure",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-DIP": {
+    "id": "B2-DIP",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dip",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-dip.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/MonsterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "dip",
+    "type": "Monster",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-DOPLE": {
+    "id": "B2-DOPLE",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dople",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-dople.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/MonsterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "dople",
+    "type": "Monster",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-DRY-BABY": {
+    "id": "B2-DRY-BABY",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dry Baby",
+        "type": "Treasure",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-dry_baby.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/TreasureCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "dry baby",
+    "type": "Treasure",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-EDEN": {
+    "id": "B2-EDEN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Eden",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-eden.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/CharacterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "eden",
+    "type": "Character",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-EDENS-BLESSING": {
+    "id": "B2-EDENS-BLESSING",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Eden\u2019s Blessing",
+        "type": "Treasure",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-edens_blessing.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/TreasureCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "eden\u2019s blessing",
+    "type": "Treasure",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-EMPTY-VESSEL": {
+    "id": "B2-EMPTY-VESSEL",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Empty Vessel",
+        "type": "Treasure",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-empty_vessel.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/TreasureCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "empty vessel",
+    "type": "Treasure",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-EVE": {
+    "id": "B2-EVE",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Eve",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-eve.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/CharacterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "eve",
+    "type": "Character",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-EVIL-TWIN": {
+    "id": "B2-EVIL-TWIN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Evil Twin",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-evil_twin.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/MonsterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "evil twin",
+    "type": "Monster",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-EYE-OF-GREED": {
+    "id": "B2-EYE-OF-GREED",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Eye Of Greed",
+        "type": "Treasure",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-eye_of_greed.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/TreasureCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "eye of greed",
+    "type": "Treasure",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-FANNY-PACK": {
+    "id": "B2-FANNY-PACK",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fanny Pack",
+        "type": "Treasure",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-fanny_pack.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/TreasureCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "fanny pack",
+    "type": "Treasure",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-FAT-BAT": {
+    "id": "B2-FAT-BAT",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fat Bat",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-fat_bat.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/MonsterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "fat bat",
+    "type": "Monster",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-FATTY": {
+    "id": "B2-FATTY",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fatty",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-fatty.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/MonsterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "fatty",
+    "type": "Monster",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-FINGER": {
+    "id": "B2-FINGER",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Finger!",
+        "type": "Treasure",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-finger.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/TreasureCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "finger!",
+    "type": "Treasure",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-FLY": {
+    "id": "B2-FLY",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fly",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-fly.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/MonsterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "fly",
+    "type": "Monster",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-FOREVER-ALONE": {
+    "id": "B2-FOREVER-ALONE",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Forever Alone",
+        "type": "Eternal",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-forever_alone.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/EternalCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "forever alone",
+    "type": "Eternal",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-FOUR-CENTS": {
+    "id": "B2-FOUR-CENTS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "4 Cents!",
+        "type": "Loot",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-four_cents.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/LootCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "4 cents!",
+    "type": "Loot",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-GOLD-BOMB": {
+    "id": "B2-GOLD-BOMB",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gold Bomb!!",
+        "type": "Loot",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-gold_bomb.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/LootCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "gold bomb!!",
+    "type": "Loot",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-GREEDLING": {
+    "id": "B2-GREEDLING",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Greedling",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-greedling.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/MonsterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "greedling",
+    "type": "Monster",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-HANGER": {
+    "id": "B2-HANGER",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hanger",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-hanger.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/MonsterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "hanger",
+    "type": "Monster",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-HOPPER": {
+    "id": "B2-HOPPER",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hopper",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-hopper.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/MonsterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "hopper",
+    "type": "Monster",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-HORF": {
+    "id": "B2-HORF",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Horf",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-horf.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/MonsterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "horf",
+    "type": "Monster",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-I-THE-MAGICIAN": {
+    "id": "B2-I-THE-MAGICIAN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "I. The Magician",
+        "type": "Loot",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-i_the_magician.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/LootCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "i. the magician",
+    "type": "Loot",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-II-THE-HIGH-PRIESTESS": {
+    "id": "B2-II-THE-HIGH-PRIESTESS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "II. The High Priestess",
+        "type": "Loot",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-ii_the_high_priestess.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/LootCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "ii. the high priestess",
+    "type": "Loot",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-III-THE-EMPRESS": {
+    "id": "B2-III-THE-EMPRESS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "III. The Empress",
+        "type": "Loot",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-iii_the_empress.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/LootCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "iii. the empress",
+    "type": "Loot",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-INCUBUS": {
+    "id": "B2-INCUBUS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Incubus",
+        "type": "Eternal",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-incubus.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/EternalCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "incubus",
+    "type": "Eternal",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-ISAAC": {
+    "id": "B2-ISAAC",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Isaac",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-isaac.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/CharacterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "isaac",
+    "type": "Character",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-JUDAS": {
+    "id": "B2-JUDAS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Judas",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-judas.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/CharacterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "judas",
+    "type": "Character",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-KEEPER-HEAD": {
+    "id": "B2-KEEPER-HEAD",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Keeper Head",
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-keeper_head.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/MonsterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "keeper head",
+    "type": "Monster",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-LAZARUS": {
+    "id": "B2-LAZARUS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lazarus",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-lazarus.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/CharacterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "lazarus",
+    "type": "Character",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-LAZARUS-RAGS": {
+    "id": "B2-LAZARUS-RAGS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lazarus\u2019 Rags",
+        "type": "Eternal",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-lazarus_rags.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/EternalCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "lazarus\u2019 rags",
+    "type": "Eternal",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-LIL-BATTERY": {
+    "id": "B2-LIL-BATTERY",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lil Battery",
+        "type": "Loot",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-lil_battery.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/LootCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "lil battery",
+    "type": "Loot",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-LILITH": {
+    "id": "B2-LILITH",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lilith",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-lilith.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/CharacterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "lilith",
+    "type": "Character",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-MAGGY": {
+    "id": "B2-MAGGY",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Maggy",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-maggy.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/CharacterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "maggy",
+    "type": "Character",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-MEGA-BATTERY": {
+    "id": "B2-MEGA-BATTERY",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mega Battery",
+        "type": "Loot",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-mega_battery.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/LootCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "mega battery",
+    "type": "Loot",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-O-THE-FOOL": {
+    "id": "B2-O-THE-FOOL",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "O. The Fool",
+        "type": "Loot",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-o_the_fool.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/LootCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "o. the fool",
+    "type": "Loot",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-PILLS": {
+    "id": "B2-PILLS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pills!",
+        "type": "Loot",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-pills.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/LootCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "pills!",
+    "type": "Loot",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-PILLS-2": {
+    "id": "B2-PILLS-2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pills!",
+        "type": "Loot",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-pills_2.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/LootCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "pills!",
+    "type": "Loot",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-PILLS-3": {
+    "id": "B2-PILLS-3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pills!",
+        "type": "Loot",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-pills_3.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/LootCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "pills!",
+    "type": "Loot",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-SAMSON": {
+    "id": "B2-SAMSON",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Samson",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-samson.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/CharacterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "samson",
+    "type": "Character",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-SLEIGHT-OF-HAND": {
+    "id": "B2-SLEIGHT-OF-HAND",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sleight Of Hand",
+        "type": "Eternal",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-sleight_of_hand.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/EternalCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "sleight of hand",
+    "type": "Eternal",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-SOUL-HEART-2": {
+    "id": "B2-SOUL-HEART-2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Soul Heart",
+        "type": "Loot",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-soul_heart_2.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/LootCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "soul heart",
+    "type": "Loot",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-SOUL-OF-GLUTTONY": {
+    "id": "B2-SOUL-OF-GLUTTONY",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Soul Of Gluttony",
+        "type": "BonusSoul",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-soul_of_gluttony.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/SoulCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "soul of gluttony",
+    "type": "BonusSoul",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-SOUL-OF-GREED": {
+    "id": "B2-SOUL-OF-GREED",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Soul Of Greed",
+        "type": "BonusSoul",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-soul_of_greed.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/SoulCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "soul of greed",
+    "type": "BonusSoul",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-SOUL-OF-GUPPY": {
+    "id": "B2-SOUL-OF-GUPPY",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Soul Of Guppy",
+        "type": "BonusSoul",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-soul_of_guppy.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/SoulCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "soul of guppy",
+    "type": "BonusSoul",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-THE-BONE": {
+    "id": "B2-THE-BONE",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Bone",
+        "type": "Eternal",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-the_bone.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/EternalCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "the bone",
+    "type": "Eternal",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-THE-CURSE": {
+    "id": "B2-THE-CURSE",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Curse",
+        "type": "Eternal",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-the_curse.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/EternalCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "the curse",
+    "type": "Eternal",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-THE-D6": {
+    "id": "B2-THE-D6",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The D6",
+        "type": "Eternal",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-the_d6.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/EternalCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "the d6",
+    "type": "Eternal",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-THE-FORGOTTEN": {
+    "id": "B2-THE-FORGOTTEN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Forgotten",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-the_forgotten.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/CharacterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "the forgotten",
+    "type": "Character",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-THREE-CENTS": {
+    "id": "B2-THREE-CENTS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "3 Cents!",
+        "type": "Loot",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-three_cents.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/LootCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "3 cents!",
+    "type": "Loot",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-TWO-CENTS": {
+    "id": "B2-TWO-CENTS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "2 Cents!",
+        "type": "Loot",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-two_cents.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/LootCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "2 cents!",
+    "type": "Loot",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "B2-YUM-HEART": {
+    "id": "B2-YUM-HEART",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yum Heart",
+        "type": "Eternal",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/b2-yum_heart.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/EternalCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "yum heart",
+    "type": "Eternal",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "FSP2-BAG-O-TRASH": {
+    "id": "FSP2-BAG-O-TRASH",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bag-O-Trash",
+        "type": "Eternal",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/fsp2-bag_o_trash.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/EternalCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "bag-o-trash",
+    "type": "Eternal",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "FSP2-BUM-BO": {
+    "id": "FSP2-BUM-BO",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bum-Bo",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/fsp2-bum_bo.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/CharacterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "bum-bo",
+    "type": "Character",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "FSP2-DARK-ARTS": {
+    "id": "FSP2-DARK-ARTS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dark Arts",
+        "type": "Eternal",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/fsp2-dark_arts.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/EternalCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "dark arts",
+    "type": "Eternal",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "FSP2-DARK-JUDAS": {
+    "id": "FSP2-DARK-JUDAS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dark Judas",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/fsp2-dark_judas.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/CharacterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "dark judas",
+    "type": "Character",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "FSP2-GIMPY": {
+    "id": "FSP2-GIMPY",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gimpy",
+        "type": "Eternal",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/fsp2-gimpy.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/EternalCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "gimpy",
+    "type": "Eternal",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "FSP2-GUPPY": {
+    "id": "FSP2-GUPPY",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Guppy",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/fsp2-guppy.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/CharacterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "guppy",
+    "type": "Character",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "FSP2-INFESTATION": {
+    "id": "FSP2-INFESTATION",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Infestation",
+        "type": "Eternal",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/fsp2-infestation.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/EternalCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "infestation",
+    "type": "Eternal",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "FSP2-WHORE-OF-BABYLON": {
+    "id": "FSP2-WHORE-OF-BABYLON",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Whore Of Babylon",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/fsp2-whore_of_babylon.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/CharacterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "whore of babylon",
+    "type": "Character",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "G2-APOLLYON": {
+    "id": "G2-APOLLYON",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Apollyon",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/g2-apollyon.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/CharacterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "apollyon",
+    "type": "Character",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "G2-AZAZEL": {
+    "id": "G2-AZAZEL",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Azazel",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/g2-azazel.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/CharacterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "azazel",
+    "type": "Character",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "G2-HOLY-MANTLE": {
+    "id": "G2-HOLY-MANTLE",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Holy Mantle",
+        "type": "Eternal",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/g2-holy_mantle.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/EternalCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "holy mantle",
+    "type": "Eternal",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "G2-LORD-OF-THE-PIT": {
+    "id": "G2-LORD-OF-THE-PIT",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lord Of The Pit",
+        "type": "Eternal",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/g2-lord_of_the_pit.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/EternalCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "lord of the pit",
+    "type": "Eternal",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "G2-THE-KEEPER": {
+    "id": "G2-THE-KEEPER",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Keeper",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/g2-the_keeper.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/CharacterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "the keeper",
+    "type": "Character",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "G2-THE-LOST": {
+    "id": "G2-THE-LOST",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Lost",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/g2-the_lost.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/CharacterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "the lost",
+    "type": "Character",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "G2-VOID": {
+    "id": "G2-VOID",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Void",
+        "type": "Eternal",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/g2-void.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/EternalCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "void",
+    "type": "Eternal",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "G2-WOODEN-NICKEL": {
+    "id": "G2-WOODEN-NICKEL",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wooden Nickel",
+        "type": "Eternal",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/g2-wooden_nickel.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/EternalCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "wooden nickel",
+    "type": "Eternal",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "R-ALL-HALLOWS-EVE": {
+    "id": "R-ALL-HALLOWS-EVE",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "All Hallows\u2019 Eve",
+        "type": "Room",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/r-all_hallows_eve.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/04/RoomCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "all hallows\u2019 eve",
+    "type": "Room",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "R-ANGELIC-INTERVENTION": {
+    "id": "R-ANGELIC-INTERVENTION",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Angelic Intervention",
+        "type": "Room",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/r-angelic_intervention.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/04/RoomCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "angelic intervention",
+    "type": "Room",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "R-BATTLE-ROYALE": {
+    "id": "R-BATTLE-ROYALE",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Battle Royale!!!",
+        "type": "Room",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/r-battle_royale.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/04/RoomCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "battle royale!!!",
+    "type": "Room",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "R-BATTLE-ROYALE-2": {
+    "id": "R-BATTLE-ROYALE-2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Battle Royale!!!!",
+        "type": "Room",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/r-battle_royale_2.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/04/RoomCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "battle royale!!!!",
+    "type": "Room",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "R-BATTLE-ROYALE-3": {
+    "id": "R-BATTLE-ROYALE-3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Battle Royale!!!!!",
+        "type": "Room",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/r-battle_royale_3.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/04/RoomCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "battle royale!!!!!",
+    "type": "Room",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "R-BEGGAR": {
+    "id": "R-BEGGAR",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Beggar",
+        "type": "Room",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/r-beggar.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/04/RoomCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "beggar",
+    "type": "Room",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "R-BETHANY": {
+    "id": "R-BETHANY",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bethany",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/r-bethany.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/CharacterCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "bethany",
+    "type": "Character",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "R-BLACK-CHAMPIONS": {
+    "id": "R-BLACK-CHAMPIONS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Black Champions",
+        "type": "Room",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/r-black_champions.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/04/RoomCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "black champions",
+    "type": "Room",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "R-BLESSING-OF-GLUTTONY": {
+    "id": "R-BLESSING-OF-GLUTTONY",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blessing Of Gluttony",
+        "type": "Room",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/r-blessing_of_gluttony.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/04/RoomCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "blessing of gluttony",
+    "type": "Room",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "R-BLESSING-OF-GREED": {
+    "id": "R-BLESSING-OF-GREED",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blessing Of Greed",
+        "type": "Room",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/r-blessing_of_greed.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/04/RoomCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "blessing of greed",
+    "type": "Room",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "R-BLESSING-OF-STEAM": {
+    "id": "R-BLESSING-OF-STEAM",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blessing Of Steam",
+        "type": "Room",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/r-blessing_of_steam.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/04/RoomCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "blessing of steam",
+    "type": "Room",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "R-BLESSING-OF-THE-INNER-EYE": {
+    "id": "R-BLESSING-OF-THE-INNER-EYE",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blessing Of The Inner Eye",
+        "type": "Room",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/r-blessing_of_the_inner_eye.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/04/RoomCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "blessing of the inner eye",
+    "type": "Room",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "R-BLESSING-OF-THE-SACK": {
+    "id": "R-BLESSING-OF-THE-SACK",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blessing Of The Sack",
+        "type": "Room",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/r-blessing_of_the_sack.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/04/RoomCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "blessing of the sack",
+    "type": "Room",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "R-BLIND-RAGE": {
+    "id": "R-BLIND-RAGE",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blind Rage",
+        "type": "Room",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/r-blind_rage.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/04/RoomCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "blind rage",
+    "type": "Room",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "R-BLOOD-DONATION": {
+    "id": "R-BLOOD-DONATION",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blood Donation",
+        "type": "Room",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/r-blood_donation.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/04/RoomCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "blood donation",
+    "type": "Room",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "R-BLOOD-LUST": {
+    "id": "R-BLOOD-LUST",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blood Lust",
+        "type": "Room",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/r-blood_lust.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/04/RoomCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "blood lust",
+    "type": "Room",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "R-BLOOD-MONEY": {
+    "id": "R-BLOOD-MONEY",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blood Money",
+        "type": "Room",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/r-blood_money.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/04/RoomCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "blood money",
+    "type": "Room",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "R-BOMB-BUM": {
+    "id": "R-BOMB-BUM",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bomb Bum",
+        "type": "Room",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/r-bomb_bum.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/04/RoomCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "bomb bum",
+    "type": "Room",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "R-BOOK-OF-VIRTUES": {
+    "id": "R-BOOK-OF-VIRTUES",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Book Of Virtues",
+        "type": "Eternal",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/r-book_of_virtues.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/EternalCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "book of virtues",
+    "type": "Eternal",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "R-BUM-BO-IS-LOOSE": {
+    "id": "R-BUM-BO-IS-LOOSE",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bum-Bo Is Loose!",
+        "type": "Room",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/r-bum_bo_is_loose.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/04/RoomCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "bum-bo is loose!",
+    "type": "Room",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "R-BUTTER-FINGERS": {
+    "id": "R-BUTTER-FINGERS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Butter Fingers",
+        "type": "Room",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/r-butter_fingers.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/04/RoomCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "butter fingers",
+    "type": "Room",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "R-CHALLENGE-ROOM": {
+    "id": "R-CHALLENGE-ROOM",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Challenge Room",
+        "type": "Room",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/r-challenge_room.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/04/RoomCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "challenge room",
+    "type": "Room",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "R-SIBLING-RIVALRY": {
+    "id": "R-SIBLING-RIVALRY",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sibling Rivalry",
+        "type": "Eternal",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/r-sibling_rivalry.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2021/10/EternalCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "sibling rivalry",
+    "type": "Eternal",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "R-SOUL-OF-ENVY": {
+    "id": "R-SOUL-OF-ENVY",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Soul Of Envy",
+        "type": "BonusSoul",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/r-soul_of_envy.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/SoulCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "soul of envy",
+    "type": "BonusSoul",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "R-SOUL-OF-LUST": {
+    "id": "R-SOUL-OF-LUST",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Soul Of Lust",
+        "type": "BonusSoul",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/r-soul_of_lust.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/SoulCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "soul of lust",
+    "type": "BonusSoul",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "R-SOUL-OF-PRIDE": {
+    "id": "R-SOUL-OF-PRIDE",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Soul Of Pride",
+        "type": "BonusSoul",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/r-soul_of_pride.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/SoulCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "soul of pride",
+    "type": "BonusSoul",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "R-SOUL-OF-SLOTH": {
+    "id": "R-SOUL-OF-SLOTH",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Soul Of Sloth",
+        "type": "BonusSoul",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/r-soul_of_sloth.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/SoulCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "soul of sloth",
+    "type": "BonusSoul",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "R-SOUL-OF-WRATH": {
+    "id": "R-SOUL-OF-WRATH",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Soul Of Wrath",
+        "type": "BonusSoul",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/r-soul_of_wrath.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/SoulCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "soul of wrath",
+    "type": "BonusSoul",
+    "cost": 0,
+    "set": "unknown"
+  },
+  "RWZ-STRAWBERRY": {
+    "id": "RWZ-STRAWBERRY",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Strawberry",
+        "type": "BonusSoul",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/rwz-strawberry.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://foursouls.com/wp-content/uploads/2022/01/SoulCardBack.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "strawberry",
+    "type": "BonusSoul",
+    "cost": 0,
+    "set": "unknown"
+  }
+}
