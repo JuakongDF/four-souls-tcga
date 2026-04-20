@@ -71,20 +71,8 @@ def main() -> int:
         deck("FS Shared Monster Deck (All)", args.game, args.format, {"Monster": monster_ids}),
         deck("FS Shared Room Deck (All)", args.game, args.format, {"Room": room_ids}),
         deck("FS Shared Bonus Souls (All)", args.game, args.format, {"BonusSoul": bonus_soul_ids}),
-        deck("FS Character Pool (All)", args.game, args.format, {"Character": by_type.get("Character", [])}),
+        deck("FS Character Mulligan Deck (All)", args.game, args.format, {"Character": by_type.get("Character", [])}),
         deck("FS Starting Items Pool (All)", args.game, args.format, {"Eternal": by_type.get("Eternal", [])}),
-        deck(
-            "FS Auto Setup Host",
-            args.game,
-            args.format,
-            {
-                "Loot": loot_ids,
-                "Treasure": treasure_ids,
-                "Monster": monster_ids,
-                "Room": room_ids,
-                "BonusSoul": bonus_soul_ids,
-            },
-        ),
         deck(
             "FS Full Setup Pack (All Shared)",
             args.game,
