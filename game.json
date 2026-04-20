@@ -7,7 +7,7 @@
     ],
     "decksUrl": "https://raw.githubusercontent.com/JuakongDF/four-souls-tcga/main/starter_decks.json"
   },
-  "customHelp": "EXPERIMENTAL: TCG Arena now attempts to automatically route shared deck cards to their correct zones on game start using beforeGameStart filtering. Load FS Host Shared Setup Pack (All Shared) for the host/setup player—cards should auto-distribute to Loot Deck, Treasure Deck, Monster Deck, Room Deck, and Bonus Souls zones by type. Other players use FS Character Mulligan Deck (All) to select a character (draw 1, mulligan once). If automated distribution fails, fall back to manual placement of shared decks.",
+  "customHelp": "TCG Arena now auto-routes ALL card types to their correct zones on startup, just like it does for characters. Load FS Host Shared Setup Pack (All Shared) for the host/setup player—loot, treasure, monsters, rooms, bonus souls, and characters all auto-distribute to their zones. No hand, no shuffled deck confusion. Other players: load FS Character Mulligan Deck (All) to select a character (draw 1, mulligan once), then manually pick a matching item from FS Starting Items Pool (All).",
   "cardRotation": 0,
   "cards": {
     "dataUrl": "https://JuakongDF.github.io/four-souls-tcga/cards.json",
@@ -223,7 +223,14 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Character"
+          "Character",
+          "Loot",
+          "Treasure",
+          "Monster",
+          "Room",
+          "BonusSoul",
+          "Eternal",
+          "Curse"
         ],
         "autoPlayFromHand": {
           "Character": "Character",
@@ -236,40 +243,6 @@
           "Loot": "Stack"
         },
         "autoPlayFromStack": {},
-        "beforeGameStart": {
-          "actions": [
-            {
-              "type": "drawFromTop",
-              "targetZone": "Loot Deck",
-              "count": 128,
-              "filterByType": "Loot"
-            },
-            {
-              "type": "drawFromTop",
-              "targetZone": "Treasure Deck",
-              "count": 278,
-              "filterByType": "Treasure"
-            },
-            {
-              "type": "drawFromTop",
-              "targetZone": "Monster Deck",
-              "count": 350,
-              "filterByType": "Monster"
-            },
-            {
-              "type": "drawFromTop",
-              "targetZone": "Room Deck",
-              "count": 68,
-              "filterByType": "Room"
-            },
-            {
-              "type": "drawFromTop",
-              "targetZone": "Bonus Souls",
-              "count": 9,
-              "filterByType": "BonusSoul"
-            }
-          ]
-        },
         "sectionsDict": {
           "Character": {
             "title": "Character",
