@@ -5,7 +5,7 @@
     "backgrounds": [
       "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1920&q=80"
     ],
-    "decksUrl": "https://JuakongDF.github.io/four-souls-tcga/starter_decks.json"
+    "decksUrl": "https://raw.githubusercontent.com/JuakongDF/four-souls-tcga/main/starter_decks.json"
   },
   "customHelp": "Load starter decks from deckbuilder: FS Shared Loot/Treasure/Monster/Room, FS Shared Bonus Souls, FS Character Pool, FS Starting Items Pool. Use the shared deck zones on board instead of the personal Draw zone.",
   "cardRotation": 0,
