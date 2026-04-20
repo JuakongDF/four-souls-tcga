@@ -7,7 +7,7 @@
     ],
     "decksUrl": "https://raw.githubusercontent.com/JuakongDF/four-souls-tcga/main/starter_decks.json"
   },
-  "customHelp": "Load starter decks from deckbuilder: FS Shared Loot/Treasure/Monster/Room, FS Shared Bonus Souls, FS Character Pool, FS Starting Items Pool. Use the shared deck zones on board instead of the personal Draw zone.",
+  "customHelp": "TCG Arena appears to support only one player deck in the Start/Mulligan flow. For Four Souls, ignore the personal Draw zone. Load FS Shared Loot/Treasure/Monster/Room, FS Shared Bonus Souls, FS Character Pool, and FS Starting Items Pool from deckbuilder, place them in the shared zones, then manually draw 3 loot from Loot Deck and assign characters/items.",
   "cardRotation": 0,
   "cards": {
     "dataUrl": "https://JuakongDF.github.io/four-souls-tcga/cards.json",
@@ -38,8 +38,8 @@
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "info": "Four Souls has no standard full redraw mulligan by default.",
-        "startingHandSize": "3",
+        "info": "Disabled for Four Souls setup. After placing the shared decks, each player manually draws 3 from Loot Deck.",
+        "startingHandSize": "0",
         "drawNewHand": false,
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false
