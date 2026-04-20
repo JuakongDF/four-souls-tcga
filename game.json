@@ -7,7 +7,7 @@
     ],
     "decksUrl": "https://raw.githubusercontent.com/JuakongDF/four-souls-tcga/main/starter_decks.json"
   },
-  "customHelp": "TCG Arena appears to allow only one active deck per player slot. Recommended workaround: one player acts as host/setup and uses FS Host Shared Setup Pack (All Shared) or the individual FS Shared Loot/Treasure/Monster/Room/Bonus decks for the board. Other players use FS Character Mulligan Deck (All), draw 1 character, and may mulligan once. Then manually take the matching item from FS Starting Items Pool (All). If you pick Eden, reroll the item manually once from the item pool. Ignore the generic Draw zone for the main game.",
+  "customHelp": "EXPERIMENTAL: TCG Arena now attempts to automatically route shared deck cards to their correct zones on game start using beforeGameStart filtering. Load FS Host Shared Setup Pack (All Shared) for the host/setup player—cards should auto-distribute to Loot Deck, Treasure Deck, Monster Deck, Room Deck, and Bonus Souls zones by type. Other players use FS Character Mulligan Deck (All) to select a character (draw 1, mulligan once). If automated distribution fails, fall back to manual placement of shared decks.",
   "cardRotation": 0,
   "cards": {
     "dataUrl": "https://JuakongDF.github.io/four-souls-tcga/cards.json",
@@ -236,6 +236,40 @@
           "Loot": "Stack"
         },
         "autoPlayFromStack": {},
+        "beforeGameStart": {
+          "actions": [
+            {
+              "type": "drawFromTop",
+              "targetZone": "Loot Deck",
+              "count": 128,
+              "filterByType": "Loot"
+            },
+            {
+              "type": "drawFromTop",
+              "targetZone": "Treasure Deck",
+              "count": 278,
+              "filterByType": "Treasure"
+            },
+            {
+              "type": "drawFromTop",
+              "targetZone": "Monster Deck",
+              "count": 350,
+              "filterByType": "Monster"
+            },
+            {
+              "type": "drawFromTop",
+              "targetZone": "Room Deck",
+              "count": 68,
+              "filterByType": "Room"
+            },
+            {
+              "type": "drawFromTop",
+              "targetZone": "Bonus Souls",
+              "count": 9,
+              "filterByType": "BonusSoul"
+            }
+          ]
+        },
         "sectionsDict": {
           "Character": {
             "title": "Character",
